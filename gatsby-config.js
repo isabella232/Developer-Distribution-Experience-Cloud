@@ -12,7 +12,7 @@
 
 module.exports = {
   pathPrefix:
-    process.env.PATH_PREFIX || "/developer-distribution/creative-cloud/docs/",
+    process.env.PATH_PREFIX || "/developer-distribution/experience-cloud/docs/",
   siteMetadata: {
     pages: [
       {
