@@ -52,21 +52,17 @@ module.exports = {
             title: "Get a Plugin ID",
           },
           {
-            title: "Submission and Review",
+            title: "Submission",
             path: "guides/submission/overview.md",
             pages: [
               {
                 path: "guides/submission/what_review.md",
-                title: "What We Review",
+                title: "App Builder ISV",
               },
               {
                 path: "guides/submission/timelines_outcomes.md",
-                title: "Timelines and Outcomes",
-              },
-              {
-                path: "guides/submission/rejection_reasons.md",
-                title: "Top Rejection Reasons",
-              },
+                title: "Service to Service",
+              },             
             ],
           },
           {
