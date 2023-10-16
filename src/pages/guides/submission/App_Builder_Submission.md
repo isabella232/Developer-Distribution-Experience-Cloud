@@ -19,7 +19,7 @@ title: Getting Started
 description: This is the getting started page
 ---
 
-# Getting Started
+# App Builder ISV
 
 This getting started guide introduces key areas of the [Adobe Developer Distribution portal](/distribute/home) to help you begin distributing your plugins quickly and easily. The Adobe Developer Distribution portal enables you to quickly publish a **listing** for your plugin on two Creative Cloud Marketplaces; the Creative Cloud desktop app Marketplace and Adobe Exchange in these three easy steps:
 
