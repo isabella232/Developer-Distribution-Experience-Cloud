@@ -56,11 +56,11 @@ module.exports = {
             path: "guides/submission/overview.md",
             pages: [
               {
-                path: "guides/submission/what_review.md",
+                path: "guides/submission/app_builder_submission.md",
                 title: "App Builder ISV",
               },
               {
-                path: "guides/submission/timelines_outcomes.md",
+                path: "guides/submission/service_to_service.md",
                 title: "Service to Service",
               },             
             ],

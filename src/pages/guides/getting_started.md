@@ -45,10 +45,6 @@ As listings are created, up to three of the most recent will be shown for quick 
 
 ![Screenshot of the home page with links to three plugins](../images/DD_Home_returning_user.png)
 
-## Sample Image Example
-
-![Alt text for my new sample image](../images/a-sample-image.png)
-
 ## Listings
 
 Manage your listings either in card view or list view. Clicking **View** on any card leads to the Listing details screens to update the listing details or plugin version. The ellipsis points to more options to manage listing lifecycle, such as publish an approved app or retract a published one. Note that until a plugin icon is uploaded, a default product mneumonic logo will appear.

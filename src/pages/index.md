@@ -21,7 +21,7 @@ description: A self-service submission portal for developers to publish listings
 
 <Hero slots="heading, text" background="rgb(141, 52, 78)"/>
 
-# Adobe Developer Distribution
+# Adobe Developer Distribution123
 
 A self-service submission portal for developers to publish listings that extend Adobe products, on the Adobe marketplaces.​
 
