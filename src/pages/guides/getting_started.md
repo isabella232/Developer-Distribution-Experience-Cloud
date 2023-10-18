@@ -1,6 +1,6 @@
 ---
 keywords:
-  - Creative Cloud
+  - Experience Cloud
   - Marketplace
   - Exchange
   - Distribution
@@ -13,7 +13,7 @@ keywords:
   - Plugin
   - JavaScript
   - Developer Console
-  - Creative Cloud Desktop
+  - Experience Cloud Desktop
   - FastSpring
 title: Getting Started
 description: This is the getting started page
@@ -21,7 +21,7 @@ description: This is the getting started page
 
 # Getting Started
 
-This getting started guide introduces key areas of the [Adobe Developer Distribution portal](/distribute/home) to help you begin distributing your plugins quickly and easily. The Adobe Developer Distribution portal enables you to quickly publish a **listing** for your plugin on two Creative Cloud Marketplaces; the Creative Cloud desktop app Marketplace and Adobe Exchange in these three easy steps:
+This getting started guide introduces key areas of the [Adobe Developer Distribution portal](/distribute/home) to help you begin distributing your plugins quickly and easily. The Adobe Developer Distribution portal enables you to quickly publish a **listing** for your plugin on two Experience Cloud Marketplaces; the Experience Cloud desktop app Marketplace and Adobe Exchange in these three easy steps:
 
 1. Add your public profile.
 2. Create a **listing** to represent your plugin with metadata, the packaged plugin, and a **version**.
@@ -29,11 +29,11 @@ This getting started guide introduces key areas of the [Adobe Developer Distribu
 
 <InlineAlert slots="text" variant="help"/>
 
-A **listing** is what users see on a Marketplace. It contains metadata to describe your plugin and how to use it, along with a specific **version** of your plugin to be installed by the Creative Cloud desktop app. For more details on these concepts and how they are used in the distribution of your plugin, see the [Glossary](./glossary.md).
+A **listing** is what users see on a Marketplace. It contains metadata to describe your plugin and how to use it, along with a specific **version** of your plugin to be installed by the Experince Cloud desktop app. For more details on these concepts and how they are used in the distribution of your plugin, see the [Glossary](./glossary.md).
 
 ## Overview
 
-The following section will provide a brief overview of each view in the [Adobe Developer Distribution portal](/distribute/home) to help you get started using it quickly.
+The following section will provide a brief overview of each view in the [Adobe Developer Distribution portal](/distribute/home) to help you get started using it quickly. This applies to both App Builder and service-to-service applications. 
 
 ## Home
 
@@ -57,62 +57,24 @@ Manage your listings either in card view or list view. Clicking **View** on any 
 
 ![Screenshot of the "Listings" page, with the information displayed in a tabular manner](../images/Your_Listings_list_view.png)
 
-## View Listing
+## Creating a Listing
 
-This view is shown when you click on a listing from either the "Home" tab or "Listings" tab and is where new or existing listings are managed. It also displays the overall listing and version status.
+Before you can view your listings, you must create a listing for Marketplace. Once you have built, tested, and packaged your app (using App Builder in the Adobe Developer Distribution portal), you can create a listing.
 
 ### Overview
 
-**New Listing** - Creating a listing lands you on the "Listing Overview" page. The "Get Started" helper text guides you to the new "Listing Details" or "Version" screens. Note that the first time a listing is published, both listing and version information must be complete before proceeding to submit.
+**New Listing** - For your first submission, you must submit listing details and a new version together. After publishing, you can submit an update to the listing details or a new version independently from each other. 
+
+CHANTA: ADD SCREENSHOT OF BUILD & TEST
 
 ![Screenshot of the listing page of a new listing](../images/Listing_Overview_new_listing.png)
 
-**Published Listing** - Clicking the **View** button on any listing will navigate you to its "Listing Overview" screen. The "Next Steps" helper text guides developers to update the listing details or add a plugin version.
-
-![Screenshot of the listing page of the "Overview" tab in a published listing](../images/Listing_Overview_published_listing.png)
-
 ### Listing Details
 
-This is where you enter your new listing metadata in five tabs: General, Localizations, Media, Tags and Services. All mandatory fields are marked with an asterisk. “Add a version” helper text reminds you that a version is also needed the first time a listing is published.
+You will submit your app builder new listing metadata in four tabs: General, Media, Categories, and Payment. All mandatory fields are marked with an asterisk. “Add a version” helper text reminds you that a version is also needed the first time a listing is published.
+
+CHANTA: ADD SCREENSHOT OF "ADD A LISTING" 
 
 ![Screenshot of the listing details page with a form to edit the plugin information](../images/Listing_Details_new_listing.png)
 
-**Published Listing** - Clicking the upper right **Edit** button on a published, approved or retracted "Listing Details" page will enable editing of your metadata. Note, the "Published" status has a "– editing" suffix and all edited fields are highlighted with a “Changed” box.
 
-![Screenshot of a form with the same options as before publishing](../images/Listing_Details_published_listing.png)
-
-### Versions
-
-This section of the listing details can be found in the left side navigation and allows you to **Add** a new version or click on existing versions to manage them.
-
-**Add New Version** - This view allows you to add your specific version data, including your plugin package file in the "General" tab, your release notes in the "Localizations" tab and your screenshots/videos in the "Media" tab.
-
-![Screenshot of a form where you can upload a .ccx or .xdx file](../images/plugin_version_add_new_version.png)
-
-**Manage Existing Version** - The main thing to note that is different from the above, is that no data can be changed for a "Submitted" or "Published" version, but the plugin can be downloaded.
-
-![Screenshot of the same form, but this time, all the fields are disabled. The existing file can be downloaded](../images/plugin_version_manage_published.png)
-
-**Manage All Versions** - Here you are shown your list of versions so you can easily retract "Published" versions, re-publish "Retracted" ones or delete "Rejected" or "Draft" versions.
-
-![Screenshot of the versions being displayed in a table including version number, status, app min and max version, and the publication date](../images/plugin_version_manage_all.png)
-
-### Insights
-
-View the number of plugins acquired by month and year, multiple version status summary and review or manage Ratings & Reviews.
-
-<!-- ![](../../images/Published_Listing_Insights.png) -->
-
-![Screenshot showing multiple charts, including number of acquisitions per month, yearly acquisitions, ratings and reviews, as well as a pie chart showing a "status breakdown" of the available versions ("approved", "draft", etc.)](../images/Published_Listing_Insights.png)
-
-## Account and Profile
-
-Manage/submit your public facing publisher profile information and enter a [FastSpring](https://fastspring.com/sign-up/payee-adobe/) Key in the "Commerce" tab for paid listings.
-
-<InlineAlert slots="text" variant="warning"/>
-
-The public profile _must_ be submitted before, or simultaneously with your first listing submission.
-
-<!-- ![](../../images/Account_and_Profile.png) -->
-
-![Screenshot of the Account and information page, containing the option to specify "public name", "marketing website", "description", a 250*250 px logo, and Commerce information](../images/Account_and_Profile.png)
