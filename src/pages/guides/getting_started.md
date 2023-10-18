@@ -65,16 +65,12 @@ Before you can view your listings, you must create a listing for Marketplace. On
 
 **New Listing** - For your first submission, you must submit listing details and a new version together. After publishing, you can submit an update to the listing details or a new version independently from each other. 
 
-CHANTA: ADD SCREENSHOT OF BUILD & TEST
-
-![Screenshot of the listing page of a new listing](../images/Listing_Overview_new_listing.png)
+![Screenshot of the build and test page](../images/AppBuild_Build_Test_Package.png)
 
 ### Listing Details
 
 You will submit your app builder new listing metadata in four tabs: General, Media, Categories, and Payment. All mandatory fields are marked with an asterisk. “Add a version” helper text reminds you that a version is also needed the first time a listing is published.
 
-CHANTA: ADD SCREENSHOT OF "ADD A LISTING" 
-
-![Screenshot of the listing details page with a form to edit the plugin information](../images/Listing_Details_new_listing.png)
+![Screenshot of the listing details page with a form to edit the plugin information](../images/AppBuild_Creating_a_Listing.png)
 
 
