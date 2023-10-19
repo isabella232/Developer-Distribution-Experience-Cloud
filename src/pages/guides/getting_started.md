@@ -45,32 +45,65 @@ As listings are created, up to three of the most recent will be shown for quick 
 
 ![Screenshot of the home page with links to three plugins](../images/DD_Home_returning_user.png)
 
-## Listings
+## Submitting a Listing
 
-Manage your listings either in card view or list view. Clicking **View** on any card leads to the Listing details screens to update the listing details or plugin version. The ellipsis points to more options to manage listing lifecycle, such as publish an approved app or retract a published one. Note that until a plugin icon is uploaded, a default product mneumonic logo will appear.
+Once you have built, tested, and packaged your app (using App Builder in the Adobe Developer Distribution portal), you can create a listing for the Marketplace. Executing the command "Distribute" will take you the Developer Console where you can create a listing for your app. 
 
-**Card View**
-
-![Screenshot of the listings page](../images/Your_Listings_card_view.png)
-
-**List View**
-
-![Screenshot of the "Listings" page, with the information displayed in a tabular manner](../images/Your_Listings_list_view.png)
-
-## Creating a Listing
-
-Before you can view your listings, you must create a listing for Marketplace. Once you have built, tested, and packaged your app (using App Builder in the Adobe Developer Distribution portal), you can create a listing.
+CHANTA: ADD A SCREENSHOT OF THE APPBUILDER Build_Test_Package HERE.
 
 ### Overview
 
-**New Listing** - For your first submission, you must submit listing details and a new version together. After publishing, you can submit an update to the listing details or a new version independently from each other. 
+**New Submission** - For your first submission, you must submit listing details and a new version together. After publishing, you can submit an update to the listing details or a new version independently from each other. 
 
-![Screenshot of the build and test page](../images/AppBuild_Build_Test_Package.png)
+CHANTA: ADD A SCREENSHOT OF THE APPBUILDER LABELED New Submission HERE. 
+
+This is the landing page where you will create your submission. Before you get started, do the following: 
+
+1. Look at the navigation panel on the left to confirm you are on the Listing Details screen.
+2. In the upper right-hand corner, make sure your role and your organization's name are listed. If you need to edit any of your profile details, click the "Edit Public Profile" tab.
+3. The menu at the top of the screen indicates your listing status, the platform you are using, the last modified date, and your APP ID. You are now ready to add the listing details for your app. 
 
 ### Listing Details
 
-You will submit your app builder new listing metadata in four tabs: General, Media, Categories, and Payment. All mandatory fields are marked with an asterisk. “Add a version” helper text reminds you that a version is also needed the first time a listing is published.
+You will submit your app builder new listing metadata in four tabs: General, Media, Categories, and Payment. All mandatory fields are marked with an asterisk. “Add a version” helper text reminds you that a version is also needed the first time a listing is published. Instructions on adding a version are provided later in this document. 
 
-![Screenshot of the listing details page with a form to edit the plugin information](../images/AppBuild_Creating_a_Listing.png)
+CHANTA: ADD A SCREENSHOT OF THE APPBUILDER Creating_a_Listing HERE. 
 
+When you've finished adding all the listing details, click the blue button labeled Save Draft & Add Version. 
+
+CHANTA: ADD SCREENSHOT OF APPBUILDER Save_Draft HERE.
+
+You will see a confirmation indicating that your draft has been created. 
+
+CHANTA: ADD SCREENSHOT OF APPBUILDER Draft_Version_Created HERE. 
+
+Next, you will upload your application package. Make sure to follow the instructions and size requirements. 
+
+CHANTA: ADD SCREENSHOT OF APPBUILDER Upload_App HERE. 
+
+### Version Details
+
+NOTE from CHANTA: I'm not sure when the developer is supposed to add a version. Is it before they click Review & Submit in the next step? 
+
+Once you have uploaded your app package, click the Review & Submit button. 
+
+CHANTA: ADD SCREENSHOT OF APPBUILDER Review and Submit HERE. 
+
+Now, you can submit your application for review. 
+
+CHANTA: ADD SCREENSHOT OF APPBUILDER Submit Application HERE.
+
+You will see a confirmation that your app has been successfully submitted. 
+
+CHANTA: ADD SCREENSHOT OF APPBUILDER Successfully Submitted HERE. 
+
+### Manage Screen 
+
+Once your app has been submitted, it must be approved by an Adobe administrator. To check the status of your submission, go to the Manage tab and look to see if there is an approval message near the bottom of the screen. Then follow the instructions to add a new environment to start installing your application. 
+
+CHANTA: ADD SCREENSHOT OF APPBUILDER App_Approval HERE. 
+
+Once you have created your new environment, click the blue Deploy tab.
+
+CHANTA: ADD SCREENSHOT OF APPBUILDER Deploy HERE. 
 
