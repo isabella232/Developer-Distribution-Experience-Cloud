@@ -45,17 +45,23 @@ As listings are created, up to three of the most recent will be shown for quick 
 
 ![Screenshot of the home page with links to three plugins](../images/DD_Home_returning_user.png)
 
-## Submitting a Listing
+## Creating a Listing
 
 Once you have built, tested, and packaged your app (using App Builder in the Adobe Developer Distribution portal), you can create a listing for the Marketplace. Executing the command "Distribute" will take you the Developer Console where you can create a listing for your app. 
 
-CHANTA: ADD A SCREENSHOT OF THE APPBUILDER Build_Test_Package HERE.
+![Screenshot of the home page with links to three plugins](../images/AppBuild_1Create_a_New_Listing_Blank.png)
 
-### Overview
+Chose a listing type, the last box is for software integrations.
 
-**New Submission** - For your first submission, you must submit listing details and a new version together. After publishing, you can submit an update to the listing details or a new version independently from each other. 
+![Screenshot of the home page with links to three plugins](../images/AppBuild_2Choose_Listing_Type.png)
 
-CHANTA: ADD A SCREENSHOT OF THE APPBUILDER LABELED New Submission HERE. 
+Once a listing is created, metadata can be entered from the listing details screen.
+
+![Screenshot of the home page with links to three plugins](../images/AppBuild_3Review_and_Edit_Listing.png)
+
+**New Submission** - You are now ready to create and submit your app. For your first submission, you must submit listing details and a new version together. After publishing, you can submit an update to the listing details or a new version independently from each other. 
+
+![Screenshot of the home page with links to three plugins](../images/AppBuild_4General_Tab.png)
 
 This is the landing page where you will create your submission. Before you get started, do the following: 
 
@@ -65,39 +71,54 @@ This is the landing page where you will create your submission. Before you get s
 
 ### Listing Details
 
-You will submit your app builder new listing metadata in four tabs: General, Media, Categories, and Payment. All mandatory fields are marked with an asterisk. “Add a version” helper text reminds you that a version is also needed the first time a listing is published. Instructions on adding a version are provided later in this document. 
+You will submit your app builder new listing metadata in multiple tabs: General, Icons, Media, Products, Tags, and Services. All mandatory fields are marked with an asterisk. Start on the General tab. This tab has Application name, a short description (subtitle), a long description, and support email.  Be sure to save a draft if you navigate away from the page.
 
-CHANTA: ADD A SCREENSHOT OF THE APPBUILDER Creating_a_Listing HERE. 
+![Screenshot of the home page with links to three plugins](../images/AppBuild_4General_Tab.png)
 
-When you've finished adding all the listing details, click the blue button labeled Save Draft & Add Version. 
+Three different icon sizes are required for each integration as well as a Featured image for featuring an integration.
 
-CHANTA: ADD SCREENSHOT OF APPBUILDER Save_Draft HERE.
+![Screenshot of the home page with links to three plugins](../images/AppBuild_5Icons.png)
 
-You will see a confirmation indicating that your draft has been created. 
+You can use 4-10 screenshots to describe the integration. Up to 10 documents (such as white papers) can be uploaded.
 
-CHANTA: ADD SCREENSHOT OF APPBUILDER Draft_Version_Created HERE. 
+![Screenshot of the home page with links to three plugins](../images/AppBuild_6Screenshots.png)
+
+The Products tab is for choosing which Adobe Experience Cloud products are required and/or optional for a software integration.
+
+![Screenshot of the home page with links to three plugins](../images/AppBuild_7Products_Tab.png)
+
+Categories and tags help customers discover and filter/sort software integrations published on the Experience Cloud Exchange Marketplace.
+
+![Screenshot of the home page with links to three plugins](../images/AppBuild_8Categories_Tab.png)
+
+The Services tab is for entering an optional End-User License Agreement and installation instructions.  Instruction templates are available for some Experience Cloud products.  An optional software revision number, release notes and supported languages can also be provided on the Services Tab.
+
+![Screenshot of the home page with links to three plugins](../images/AppBuild_9Services_Tab.png)
+
+When you've finished adding all the listing details and completing the mandatory fields, the Preview and Submit button will be enableed. When you click the button, you will see a marketplace preview from the submission modal or checklist. Once a note is provided to a reviewer the Submit for review button will be available.
+
+![Screenshot of the home page with links to three plugins](../images/AppBuild_10Preview_and_Submit.png)
+
+After your listing is submitted, you will see a confirmation on the listing overview screen. Note the status of the Listing changes from draft to “In review."
+
+![Screenshot of the home page with links to three plugins](../images/AppBuild_11Confirmation_Message.png)
+
+You will be notified by email when your listing has been approved and published on the marketplace. Listing details can be edited on a published listing. Metadata edits are highlighted by a yellow outline and the status has an edit suffix.  Edits can be submitted for review and will take effect immediately upon approval. Note the edit suffix on the submission modal and the fact that Delayed publishing is disabled for metadata changes to a published listing.
+
+![Screenshot of the home page with links to three plugins](../images/AppBuild_12Edit_Submission.png)
 
 Next, you will upload your application package. Make sure to follow the instructions and size requirements. 
 
 CHANTA: ADD SCREENSHOT OF APPBUILDER Upload_App HERE. 
 
-### Version Details
+### Revision
 
-NOTE from CHANTA: I'm not sure when the developer is supposed to add a version. Is it before they click Review & Submit in the next step? 
+NOTE from CHANTA: I'm not sure what content to add here. Is there where instructions go for the developer to edit a listing? 
 
-Once you have uploaded your app package, click the Review & Submit button. 
-
-CHANTA: ADD SCREENSHOT OF APPBUILDER Review and Submit HERE. 
-
-Now, you can submit your application for review. 
-
-CHANTA: ADD SCREENSHOT OF APPBUILDER Submit Application HERE.
-
-You will see a confirmation that your app has been successfully submitted. 
-
-CHANTA: ADD SCREENSHOT OF APPBUILDER Successfully Submitted HERE. 
 
 ### Manage Screen 
+
+CHANTA: still working on this section-PROBABLY need to add the admin steps from Veronica's screenshots. 
 
 Once your app has been submitted, it must be approved by an Adobe administrator. To check the status of your submission, go to the Manage tab and look to see if there is an approval message near the bottom of the screen. Then follow the instructions to add a new environment to start installing your application. 
 
