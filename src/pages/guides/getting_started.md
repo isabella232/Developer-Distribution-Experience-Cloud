@@ -107,9 +107,19 @@ You will be notified by email when your listing has been approved and published 
 
 ![Screenshot of the home page with links to three plugins](../images/AppBuild_12Edit_Submission.png)
 
-Next, you will upload your application package. Make sure to follow the instructions and size requirements. 
+### Reviewing A Submission
 
-CHANTA: ADD SCREENSHOT OF APPBUILDER Upload_App HERE. 
+When an application has been submitted for review, an Adobe reviewer will the application details. 
+
+CHANTA: ADD THE REVIEW SCREEN HERE. 
+
+If all the information is complete and the requirements are met, the reviewer will approve the submission. 
+
+CHANTA: ADD THE APPROVAL SCREEN HERE. 
+
+The status of the submission will show a green Approved screen. 
+
+CHANTA: ADD THE SCREEN HERE. 
 
 ### Revision
 
