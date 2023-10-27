@@ -109,7 +109,7 @@ You will be notified by email when your listing has been approved and published 
 
 ### Reviewing A Submission
 
-When an application has been submitted for review, an Adobe reviewer will the application details. 
+When an application has been submitted for review, an Adobe administrator will review the application details. 
 
 ![Screenshot of the home page with links to three plugins](../images/AppBuild_13ReviewsSubmission.png)
 
@@ -117,24 +117,28 @@ If all the information is complete and the requirements are met, the reviewer wi
 
 ![Screenshot of the home page with links to three plugins](../images/AppBuild_14ConfirmApproval.png)
 
-The status of the submission will show a green Approved screen. 
+The status of the submission will show a green "APPROVED" button. 
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_15ApproveForExchange.png)
+![Screenshot of the home page with links to three plugins](../images/AppBuilder_15ApproveForExchange.png)
 
 ### Revision
 
-NOTE from CHANTA: I'm not sure what content to add here. Is there where instructions go for the developer to edit a listing? 
+NOTE from CHANTA: Martin, I'm not sure what content to add here. Is there where instructions go for the developer to edit a listing? 
 
 
 ### Manage Screen 
 
-CHANTA: still working on this section-PROBABLY need to add the admin steps from Veronica's screenshots. 
+CHANTA: Still working on this section-PROBABLY need to add the admin steps from Veronica's screenshots. 
 
-Once your app has been submitted, it must be approved by an Adobe administrator. To check the status of your submission, go to the Manage tab and look to see if there is an approval message near the bottom of the screen. Then follow the instructions to add a new environment to start installing your application. 
+To check the status of your submission, go to the Manage tab and look to see if there is an approval message near the bottom of the screen. Then follow the instructions to add a new environment to start installing your application. If it is approved, you will see the following notification. 
 
 CHANTA: ADD SCREENSHOT OF APPBUILDER App_Approval HERE. 
 
-Once you have created your new environment, click the blue Deploy tab.
+If it is not approved or it is in pending status, you will see the following notification: 
+
+CHANTA: ADD SCREENSHOT HERE. 
+
+Once you have created your new environment, click the blue Deploy tab. CHANTA: I DON'T KNOW IF THIS IS CORRECT. 
 
 CHANTA: ADD SCREENSHOT OF APPBUILDER Deploy HERE. 
 
