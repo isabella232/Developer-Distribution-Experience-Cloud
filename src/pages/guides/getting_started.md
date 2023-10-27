@@ -111,15 +111,15 @@ You will be notified by email when your listing has been approved and published 
 
 When an application has been submitted for review, an Adobe reviewer will the application details. 
 
-CHANTA: ADD THE REVIEW SCREEN HERE. 
+![Screenshot of the home page with links to three plugins](../images/AppBuild_13ReviewsSubmission.png)
 
 If all the information is complete and the requirements are met, the reviewer will approve the submission. 
 
-CHANTA: ADD THE APPROVAL SCREEN HERE. 
+![Screenshot of the home page with links to three plugins](../images/AppBuild_14ConfirmApproval.png)
 
 The status of the submission will show a green Approved screen. 
 
-CHANTA: ADD THE SCREEN HERE. 
+![Screenshot of the home page with links to three plugins](../images/AppBuild_15ApproveForExchange.png)
 
 ### Revision
 
