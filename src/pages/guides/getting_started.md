@@ -21,7 +21,7 @@ description: This is the getting started page
 
 # Getting Started
 
-This getting started guide introduces key areas of the [Adobe Developer Distribution portal](/distribute/home) to help developers begin distributing apps quickly and easily. The Adobe Developer Distribution portal enables quick publishing  of a **listing** for the app on two Experience Cloud Marketplace. The Experience Cloud desktop app Marketplace and Adobe Exchange in these three easy steps:
+This getting started guide introduces key areas of the [Adobe Developer Distribution portal](/distribute/home) to help developers begin distributing apps quickly and easily. The Adobe Developer Distribution portal enables quick publishing  of a **listing** for the app on two Experience Cloud Marketplaces (Experience Cloud desktop app Marketplace and Adobe Exchange) in these three easy steps:
 
 1. Add the public profile.
 2. Create a **listing** to represent the app with metadata, the packaged app, and a **version**.
@@ -33,7 +33,7 @@ A **listing** is what users see on a Marketplace. It contains metadata to descri
 
 ## Overview
 
-The following section will provide a brief overview of each view in the [Adobe Developer Distribution portal](/distribute/home) to help you get started using it quickly. This applies to both App Builder and service-to-service applications. 
+The following section will provide a brief overview of each view in the [Adobe Developer Distribution portal](/distribute/home) to help developers get started using it quickly. This applies to both App Builder and software integration applications. 
 
 ## Home
 
@@ -49,13 +49,15 @@ As listings are created, up to three of the most recent will be shown for quick 
 
 This is the listing Details screen, where the app will be created and submitted. Listing details and a new version together must be submitted together for the first listing. After publishing, the requestor can submit an update to the listing details or a new version independently from each other. 
 
+Click Create New Listing.
+
 ![Screenshot of the home page with links to three plugins](../images/AppBuild_1Create_a_New_Listing_Blank.png)
 
-Chose a listing type, the last box is for software integrations.
+Chose a listing type.
 
 ![Screenshot of the home page with links to three plugins](../images/AppBuild_2Choose_Listing_Type.png)
 
-Once a listing is created, metadata can be entered from the listing details screen.
+Enter metadata into the Listing Details screen.
 
 ![Screenshot of the home page with links to three plugins](../images/AppBuild_3Review_and_Edit_Listing.png)
 
@@ -69,19 +71,21 @@ This is the landing page to create a submission. Note the following times:
 2. The requestor's role and organization name are listed in the upper right-hand corner. If any profile details need to be edited, click the "Edit Public Profile" tab.
 3. The menu at the top of the screen indicates the listing status, the platform, the last modified date, and the APP ID.
 
-The listig details for the app are ready to be added now. 
+The listing details for the app are ready to be added now. 
 
 ### Listing Details
 
-Submit the app builder new listing metadata in multiple tabs: General, Icons, Media, Products, Tags, and Services. All mandatory fields are marked with an asterisk. The General tab has Application name, a short description (subtitle), a long description, and support email.  Be sure to save a draft if you navigate away from the page.
+Submit the app builder new listing metadata in multiple tabs: General, Icons, Media, Products, Tags, and Services. All mandatory fields are marked with an asterisk. 
+
+The General tab has the application name, a short description (subtitle), a long description, and support email.  Be sure to save a draft if you navigate away from the page.
 
 ![Screenshot of the home page with links to three plugins](../images/AppBuild_4General_Tab.png)
 
-The icons tab requires three different icon sizes for each integration as well as a Featured image for featuring an integration.
+The Icons tab requires three different icon sizes for each integration as well as a Featured image for featuring an integration.
 
 ![Screenshot of the home page with links to three plugins](../images/AppBuild_5Icons.png)
 
-You can use 4-10 screenshots to describe the integration. Up to 10 documents (such as white papers) can be uploaded.
+To describe the integration, four to ten screenshots can be used. Up to ten documents (such as white papers) can be uploaded.
 
 ![Screenshot of the home page with links to three plugins](../images/AppBuild_6Screenshots.png)
 
@@ -97,7 +101,7 @@ The Services tab is for entering an optional End-User License Agreement and inst
 
 ![Screenshot of the home page with links to three plugins](../images/AppBuild_9Services_Tab.png)
 
-When all of the listing details have been added and the mandatory fields are complete, the Preview and Submit button will be enableed. Click the button. Then, the marketplace preview from the submission modal or checklist will appear. Once a note is provided to a reviewer, the Submit for review button will be available.
+When all the listing details have been added and the mandatory fields are complete, the Preview and Submit button will be enabled. Click the button. Then, the marketplace preview from the submission modal or checklist will appear. Once a note is provided to a reviewer, the Submit for review button will be available.
 
 ![Screenshot of the home page with links to three plugins](../images/AppBuild_10Preview_and_Submit.png)
 
