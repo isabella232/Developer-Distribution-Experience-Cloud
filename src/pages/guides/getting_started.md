@@ -69,21 +69,21 @@ The developer can click on a listing's name or View button on the home page of �
 
 The developer can navigate to the “Listing details” page to add listing level metadata details that help users discover their listing in the marketplace once it’s published.  
 
-![Screenshot of the home page without any created plugins](../images/Overview 6.PNG)
+![Screenshot of the home page with links to three plugins](../images/Overview 6.PNG)
 
 Some of the listing types require a package to be uploaded and validated before the developer can submit the listing for Adobe review. In such cases, the developer will see the option to ‘Add new version’ in the left navigation bar. Clicking on ‘Add new version’ creates a new version and takes the developer to the version details page for the new draft version. The developer can also patch an existing listing by adding a second or subsequent version. In such cases, the version-level metadata from the earlier version is copied over to the new draft version, and the developer can update it as they see fit.  
 
-![Screenshot of the home page without any created plugins](../images/Overview 7.PNG)
+![Screenshot of the home page with links to three plugins](../images/Overview 7.PNG)
 
 Once the listing is approved, the developer can also edit the listing-level metadata fields (such as its description and support information). The edits to an Approved, Published or Rejected listing also need to go through Adobe review, in order to be approved and merged with the original listing.  
 
-![Screenshot of the home page without any created plugins](../images/Overview 8.PNG)
+![Screenshot of the home page with links to three plugins](../images/Overview 8.PNG)
 
 ## Insights
 
 Insights are available for the listing types that can be acquired from the Adobe Exchange marketplace such as App Builder apps. For such listings, the developer can view the number of plugins acquired by month and year, as well as multiple version status summary for listings that have versions. 
 
-![Screenshot of the home page without any created plugins](../images/Overview 9.PNG)
+![Screenshot of the home page with links to three plugins](../images/Overview 9.PNG)
 
 ## Submissions 
 
