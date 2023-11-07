@@ -37,15 +37,59 @@ The following section will provide a brief overview of each view in the [Adobe D
 
 ## Home
 
-The home page is where developers create their public profile and create a new listing for their app. "Quick start" links to create a new listing and edit/view a public profile can be found here. The "Get Started" box helps reminds developers that a profile must be created and submitted before any app can be submitted for approval.
+The home page is where developers create their public profile and create a new listing for their app. "Quick start" links to create a new listing and edit/view a public profile can be found here. The "Get Started" box reminds developers that a profile must be created and submitted before any app can be submitted for approval.
 
 ![Screenshot of the home page without any created plugins](../images/DD_Home_first_time_user_sm.jpg)
 
-As listings are created, up to three of the most recent will be shown for quick view and access. As listings are published, an "Insights" summary table will replace the "Get Started" box. To manage more than three listings, choose the **All listings** link or the **Listings** tab in the nav bar to go to the "Your Listings" page.
+As listings are created, up to three of the most recent will be shown for quick view and access. As listings are published, an "Insights" summary table will replace the "Get Started" box. 
 
 ![Screenshot of the home page with links to three plugins](../images/DD_Home_returning_user.png)
 
-## Creating a Listing
+To manage more than three listings, choose the **All listings** link or the **Listings** tab in the nav bar to go to the "Your Listings" page.
+
+## Listings
+
+The developer can manage their listings either in card view or list view. Clicking View on any card leads to the Listing details screens to update the listing details or plugin version. The ellipsis points to more options to manage listing lifecycle, such as publish an approved app or retract a published one. Note that until an app icon is uploaded, a default product mnemonic logo will appear. 
+
+CARD VIEW 
+
+PLACEHOLDER FOR SCREENSHOT - CARD VIEW 
+
+LIST VIEW 
+
+This view allows developers to see more information on their listings. 
+
+PLACEHOLDER FOR LIST VIEW SCREENSHOT 
+
+## Managing a Listing 
+
+The developer can click on a listing's name or View button on the home page of “Your listings” page to navigate to a specific listing. Clicking the name of the listing or View button, will land users on the “Listing Overview” page.  
+
+PLACEHOLDER OF SCREENSHOT 
+
+The developer can navigate to the “Listing details” page to add listing level metadata details that help users discover their listing in the marketplace once it’s published.  
+
+PLACEHOLDER OF SCREENSHOT
+
+Some of the listing types require a package to be uploaded and validated before the developer can submit the listing for Adobe review. In such cases, the developer will see the option to ‘Add new version’ in the left navigation bar. Clicking on ‘Add new version’ creates a new version and takes the developer to the version details page for the new draft version. The developer can also patch an existing listing by adding a second or subsequent version. In such cases, the version-level metadata from the earlier version is copied over to the new draft version, and the developer can update it as they see fit.  
+
+PLACEHOLDER OF SCREENSHOT
+
+Once the listing is approved, the developer can also edit the listing-level metadata fields (such as its description and support information). The edits to an Approved, Published or Rejected listing also need to go through Adobe review, in order to be approved and merged with the original listing.  
+
+PLACEHOLDER OF SCREENSHOT
+
+## Insights
+
+Insights are available for the listing types that can be acquired from the Adobe Exchange marketplace such as App Builder apps. For such listings, the developer can view the number of plugins acquired by month and year, as well as multiple version status summary for listings that have versions. 
+
+PLACEHOLDER FOR SCREENSHOT 
+
+## Submissions 
+
+THIS STARTS THE SUBMISSIONS SECTION (WHICH GOES ON ANOTHER TAB)
+
+## Create a Listing
 
 This is the listing Details screen, where the app will be created and submitted. Listing details and a new version together must be submitted together for the first listing. After publishing, the requestor can submit an update to the listing details or a new version independently from each other. 
 
