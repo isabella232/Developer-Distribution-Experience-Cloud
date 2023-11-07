@@ -25,101 +25,109 @@ This getting started guide introduces key areas of the [Adobe Developer Distribu
 
 ![sample image alt text](../../images/Your_Listings_card_view.png)
 
+## Creating a Listing 
+A new listing can be created from the home page or the “Your listings” page. Clicking on ‘Create a new listing’ lands the developer on the modal overlay where they must choose the type of listing they want to create.  
 
-THIS STARTS THE SUBMISSIONS SECTION (WHICH GOES ON ANOTHER TAB)
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 1.PNG)
 
-## Create a Listing
+Some types of listings have prerequisites that developers need to fulfil before they can create the listing. For example, in order to create an App Builder application or a software integration listing, a developer either needs to belong to an Enterprise organization because they have purchased Experience Cloud products or they will need   to first register to the Technology Partner Program portal.  
 
-This is the listing Details screen, where the app will be created and submitted. Listing details and a new version together must be submitted together for the first listing. After publishing, the requestor can submit an update to the listing details or a new version independently from each other. 
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 2.PNG)
 
-Click Create New Listing.
+Once the listing type has been chosen, another modal will ask the developer to choose the project they want to be associated with the listing. The developer can either choose an existing project, or create the listing in a new project. 
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_1Create_a_New_Listing_Blank.png)
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 3.PNG)
+ 
+Upon successful creation of the listing, the developer will be routed to the "Listing Overview" page. This page provides a high-level overview of the listing, such as its status, listing type, last modified date, and next steps. 
 
-Chose a listing type.
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 4.PNG)
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_2Choose_Listing_Type.png)
+The developer can navigate to the “Listing details” page to add listing-level metadata details that help users discover their listing in the marketplace once it’s published.  
 
-Enter metadata into the Listing Details screen.
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 5.PNG)
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_3Review_and_Edit_Listing.png)
+This is the landing page to create a submission. Note the following items for App Builder listings: 
 
-**New Submission** - Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), create the listing for the Marketplace. Executing the command "Distribute" will take you the Developer Console to create a listing for the app. 
+1.	The navigation panel on the left confirms that this is the Listing Details screen. 
+2.	The requestor's role and organization name are listed in the upper right-hand corner. If any profile details need to be edited, click the "Edit Public Profile" tab. 
+3.	The menu at the top of the screen indicates the listing status, the platform, the last modified date, and the APP ID. 
+The listing details for the app are ready to be added now.  
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_4General_Tab.png)
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 6.PNG)
 
-This is the landing page to create a submission. Note the following times: 
+## Listing Details 
+Submit the App Builder new listing metadata in multiple tabs: General, Media, Categories, and Payment. All mandatory fields are marked with an asterisk.  
+ 
+ Listing details and a new version must be submitted together for the first listing. After publishing, the developer can submit an update to the listing details or a new version independently from each other. 
 
-1. The navigation panel on the left confirms that this is the Listing Details screen.
-2. The requestor's role and organization name are listed in the upper right-hand corner. If any profile details need to be edited, click the "Edit Public Profile" tab.
-3. The menu at the top of the screen indicates the listing status, the platform, the last modified date, and the APP ID.
+New Submission - Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), create the listing for the Marketplace. Executing the command "Distribute" will take you the Developer Console to create a listing for the app. 
+ 
+The General tab has the application’s public name, a short description (subtitle), a long description, URL for documentation, support information (email and URL), URL for Privacy policy, and URL for Terms of Service. Be sure to save a draft if you navigate away from the page. 
 
-The listing details for the app are ready to be added now. 
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 5.PNG)
 
-### Listing Details
+ The Media tab requires three different icon sizes for each integration. To describe the integration, up to ten screenshots and up to ten video links can be used. A caption can be added for each image and video. 
 
-Submit the app builder new listing metadata in multiple tabs: General, Icons, Media, Products, Tags, and Services. All mandatory fields are marked with an asterisk. 
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 6.PNG)
 
-The General tab has the application name, a short description (subtitle), a long description, and support email.  Be sure to save a draft if you navigate away from the page.
+The Categories tab has categories (such as Country and Industry) and custom tags that developers can add. These categories and tags help marketplace customers discover and filter/sort App Builder apps published on the marketplace.  
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_4General_Tab.png)
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 7.PNG)
 
-The Icons tab requires three different icon sizes for each integration as well as a Featured image for featuring an integration.
+The “Marketplaces” checkbox lets the developers choose if they want to publish their application on the Commerce marketplace, along-with the Exchange marketplace. When choosing to publish on Commerce marketplace, additional categories need to be completed. 
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_5Icons.png)
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 7.PNG)
 
-To describe the integration, four to ten screenshots can be used. Up to ten documents (such as white papers) can be uploaded.
+The Payment tab is for entering purchase options to the listing. For now, the only option that App Builder listings can offer is 'Free' as the purchase method. In the future, App Builder listings will also have the paid purchase methods of subscription and one-time payment (Perpetual). 
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_6Screenshots.png)
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 8.PNG)
 
-The Products tab is for choosing which Adobe Experience Cloud products are required and/or optional for a software integration.
+## Version Details 
+App Builder requires a package to be uploaded and validated before the developer can submit the listing for Adobe’s review. The developer will see the option to ‘Add new version’ in the left navigation bar. Clicking on ‘Add new version’ creates a new version and takes the developer to the “Version Details” page.  
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_7Products_Tab.png)
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 9.PNG)
 
-Categories and tags help customers discover and filter/sort software integrations published on the Experience Cloud Exchange Marketplace.
+Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), the package can be uploaded by dragging and dropping the package on the “Version Details” tag or by clicking “Select a file”. Upon successful upload of a file, scans and validations are performed to confirm that all the details of the package are in the required format, and the files are the right size and type.  
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_8Categories_Tab.png)
+The developer can keep adding more information related to the version (such as optional products that their app supports and release notes) while the validations are performed. The “Package download” checkbox lets developers opt to allow users to download the package once they have acquired it from the marketplace.  
 
-The Services tab is for entering an optional End-User License Agreement and installation instructions.  Instruction templates are available for some Experience Cloud products.  An optional software revision number, release notes and supported languages can also be provided on the Services Tab.
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 9.PNG)
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_9Services_Tab.png)
+When all the mandatory listing and version level details have been added, and the version package has passed the validations, the Preview and submit button will be enabled. Clicking the button will open the submission modal. The modal also gives the developer the option to preview the listing or view their public profile.  
 
-When all the listing details have been added and the mandatory fields are complete, the Preview and Submit button will be enabled. Click the button. Then, the marketplace preview from the submission modal or checklist will appear. Once a note is provided to a reviewer, the Submit for review button will be available.
+For an initial listing, the developer can’t choose what they are submitting as a new listing and its first version are always submitted together. The developer must provide a note to Adobe reviewers and mark the checkbox for Adobe brand guidelines in order for the Submit listing button to be enabled.  
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_10Preview_and_Submit.png)
+“Delay publishing” allows the developer to choose whether they want to publish the app immediately on approval by Adobe, or at a later date.  
 
-After the listing is submitted, a confirmation message appears on the listing overview screen. Note the status of the Listing changes from draft to “In review."
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 10.PNG)
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_11Confirmation_Message.png)
+Upon successful submission of the listing, the developer is taken to the “Listing Overview” page, where a success message confirms the submission. The status of the Listing changes from draft to “In review." 
 
-The developer will be notified by email when the listing has been approved and published on the marketplace. Listing details can be edited on a published listing. Metadata edits are highlighted by a yellow outline and the status has an edit suffix.  Edits can be submitted for review and will take effect immediately upon approval. Note the edit suffix on the submission modal and the fact that Delayed publishing is disabled for metadata changes to a published listing.
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 11.PNG)
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_12Edit_Submission.png)
+## Reviewing A Submission 
+When an application has been submitted for review, an Adobe administrator will review the application details. If all the information is complete and the requirements are met, the reviewer will approve the submission. The status of the submission will show a green ‘Approved’ or ‘Published’, depending on what the developer chose as the publishing time preference.  
 
-### Reviewing A Submission
+The developer is notified by email when the listing is submitted, and when it has been approved and published on the marketplace. 
 
-When an application has been submitted for review, an Adobe administrator will review the application details. 
+An existing listing can be patched by adding a second or subsequent version. In such cases, the version-level metadata from the earlier version is copied over to the new draft version for the developer to update as they see fit. 
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_13ReviewsSubmission.png)
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 12.PNG)
 
-If all the information is complete and the requirements are met, the reviewer will approve the submission. 
+Listing details can be edited on a published listing. Metadata edits are highlighted by a yellow outline. The status has an edit suffix.  
 
-![Screenshot of the home page with links to three plugins](../images/AppBuild_14ConfirmApproval.png)
+![Screenshot of the home page with links to three plugins](../images/App Builder Submission 13.PNG)
 
-The status of the submission will show a green "APPROVED" button. 
+Edits can be submitted for review and will take effect immediately upon approval. Note the edit suffix on the submission modal and the fact that “Delayed publishing” is disabled for metadata changes to a published listing. 
 
-![Screenshot of the home page with links to three plugins](../images/AppBuilder_15ApproveForExchange.png)
+PLACEHOLDER FOR APP BUILDER SUBMISSION 14 IMAGE. 
 
-### Revision
+## App discovery and acquisition on Exchange marketplace (Manage screen) 
 
-NOTE from CHANTA: Martin, I'm not sure what content to add here. Is there where instructions go for the developer to edit a listing? 
-
-
-### Manage Screen 
-
-CHANTA: Still working on this section-PROBABLY need to add the admin steps from Veronica's screenshots. 
-
-To check the status of a submission, go to the Manage tab and look to see if there is an approval message near the bottom of the screen. Then follow the instructions to add a new environment to start installing the application. If it is approved, the following notification will appear: 
+Published App Builder apps start showing up on the Exchange marketplace, in the Experience Cloud browse page.  
+ 
+Still working on this section-PROBABLY need to add the admin steps from Veronica's screenshots. 
+To check the status of a submission, go to the Manage tab and look to see if there is an approval message near the bottom of the screen. Then, follow the instructions to add a new environment to start installing the application. If it is approved, the following notification will appear: 
 
 CHANTA: ADD SCREENSHOT OF APPBUILDER App_Approval HERE. 
 
@@ -127,6 +135,10 @@ If it is not approved or it is in pending status, the following notification wil
 
 CHANTA: ADD SCREENSHOT HERE. 
 
-Once the new environment has been created, click the blue Deploy tab. CHANTA: I DON'T KNOW IF THIS IS CORRECT. 
+Once the new environment has been created, click the blue Deploy tab.  
+
+I DON'T KNOW IF THIS IS CORRECT. 
 
 CHANTA: ADD SCREENSHOT OF APPBUILDER Deploy HERE. 
+
+
