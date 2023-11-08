@@ -43,7 +43,7 @@ The home page is where developers create their public profile and create a new l
 
 As listings are created, up to three of the most recent will be shown for quick view and access. As listings are published, an "Insights" summary table will replace the "Get Started" box. 
 
-![Screenshot of the home page with links to three plugins](../images/Overview 2.PNG)
+![Screenshot of the home page with links to three plugins](../images/Overview%202.PNG)
 
 To manage more than three listings, choose the **All listings** link or the **Listings** tab in the nav bar to go to the "Your Listings" page.
 
@@ -53,37 +53,37 @@ The developer can manage their listings either in card view or list view. Clicki
 
 CARD VIEW 
 
-![Screenshot of the home page without any created plugins](../images/Overview 3.PNG)
+![Screenshot of the home page without any created plugins](../images/Overview%203.PNG)
 
 LIST VIEW 
 
 This view allows developers to see more information on their listings. 
 
-![Screenshot of the home page without any created plugins](../images/Overview 4.PNG) 
+![Screenshot of the home page without any created plugins](../images/Overview%204.PNG) 
 
 ## Managing a Listing 
 
 The developer can click on a listing's name or View button on the home page of “Your listings” page to navigate to a specific listing. Clicking the name of the listing or View button, will land users on the “Listing Overview” page.  
 
-![Screenshot of the home page without any created plugins](../images/Overview 5.PNG)
+![Screenshot of the home page without any created plugins](../images/Overview%205.PNG)
 
 The developer can navigate to the “Listing details” page to add listing level metadata details that help users discover their listing in the marketplace once it’s published.  
 
-![Screenshot of the home page with links to three plugins](../images/Overview 6.PNG)
+![Screenshot of the home page with links to three plugins](../images/Overview%206.PNG)
 
 Some of the listing types require a package to be uploaded and validated before the developer can submit the listing for Adobe review. In such cases, the developer will see the option to ‘Add new version’ in the left navigation bar. Clicking on ‘Add new version’ creates a new version and takes the developer to the version details page for the new draft version. The developer can also patch an existing listing by adding a second or subsequent version. In such cases, the version-level metadata from the earlier version is copied over to the new draft version, and the developer can update it as they see fit.  
 
-![Screenshot of the home page with links to three plugins](../images/Overview 7.PNG)
+![Screenshot of the home page with links to three plugins](../images/Overview%207.PNG)
 
 Once the listing is approved, the developer can also edit the listing-level metadata fields (such as its description and support information). The edits to an Approved, Published or Rejected listing also need to go through Adobe review, in order to be approved and merged with the original listing.  
 
-![Screenshot of the home page with links to three plugins](../images/Overview 8.PNG)
+![Screenshot of the home page with links to three plugins](../images/Overview%208.PNG)
 
 ## Insights
 
 Insights are available for the listing types that can be acquired from the Adobe Exchange marketplace such as App Builder apps. For such listings, the developer can view the number of plugins acquired by month and year, as well as multiple version status summary for listings that have versions. 
 
-![Screenshot of the home page with links to three plugins](../images/Overview 9.PNG)
+![Screenshot of the home page with links to three plugins](../images/Overview%209.PNG)
 
 The app is now ready to be submitted. For instructions on this, see the App Builder Submission section.
 
