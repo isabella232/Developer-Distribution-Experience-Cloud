@@ -39,7 +39,7 @@ The following section will provide a brief overview of each view in the [Adobe D
 
 The home page is where developers create their public profile and create a new listing for their app. "Quick start" links to create a new listing and edit/view a public profile can be found here. The "Get Started" box reminds developers that a profile must be created and submitted before any app can be submitted for approval.
 
-![Screenshot of the home page without any created plugins](../images/Overview 1.PNG)
+![Screenshot of the home page without any created plugins](../images/Overview%201.PNG)
 
 As listings are created, up to three of the most recent will be shown for quick view and access. As listings are published, an "Insights" summary table will replace the "Get Started" box. 
 
