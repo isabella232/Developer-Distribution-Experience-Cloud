@@ -124,9 +124,38 @@ Edits can be submitted for review and will take effect immediately upon approval
 
 ## App discovery and acquisition on Exchange marketplace (Manage screen) 
 
-Published App Builder apps start showing up on the Exchange marketplace, in the Experience Cloud browse page.  
- 
-Still working on this section-PROBABLY need to add the admin steps from Veronica's screenshots. 
+Published App Builder apps start showing up on the Exchange marketplace in the Experience Cloud browse page. The App Builder app can be discovered by using keyword search and filters, such as Adobe products, the app extension, industry, and country. Users can also filter apps by partnership level of the app publishers. 
+
+![Screenshot of Exchange](../images/Acquire_and_Manage_1.jpg)
+
+Clicking on the name of an app listing will take the marketplace user to that app listing’s details page. The listing details page will show ‘App Builder’ as one of the Required products.
+
+![Screenshot of Exchange](../images/Acquire_and_Manage_2.jpg)
+
+If, after viewing the application details, the user decides to acquire the app, they can click the ‘Free’ button on the top right. This will open a window informing them about which Adobe products their organization should have in order for the app to function as intended.   
+
+![Screenshot of Exchange](../images/Acquire_and_Manage_3.jpg)
+
+Clicking ‘Yes, continue’ will display the link for the end-user license agreement provided by the developer of the app. 
+
+![Screenshot of Exchange](../images/Acquire_and_Manage_4.jpg)
+
+If the user clicks on the ‘Accept and continue’ button on the End-user license agreement, they will be taken to the sign-up-sign-in screen and required to login to the Exchange marketplace (if they aren’t already logged in). Once they log in, the app will be acquired for the org that they are logged in to. The ‘Free’ button will be replaced by ‘Manage’, and the app will start showing as ‘Acquired’. Users will also see a confirmation informing them that the app has been acquired, and the system administrator of their org needs to approve the acquisition before it can be installed and used. 
+
+INSERT SCREENSHOT FOR ‘MANAGE YOUR APP’ HERE. MISSING. 
+
+Clicking ‘Manage’ on the app listing details page, or the ‘Manage your app’ button will route the user to the tab Experience Cloud Applications tab on the ‘Manage’ page, where the application details page for that app will appear.  
+
+The user can also navigate to the Manage tab from the global navigation bar on the Exchange marketplace and click on the ‘Experience Cloud Applications’ tab to view all apps acquired for their org. Admins will also see the option to ‘Review’ for apps that have been acquired, but not approved yet. 
+
+![Screenshot of Exchange](../images/Acquire_and_Manage_5.jpg)
+
+Clicking on an app’s name on the Experience Cloud Applications tab will take the user to the application details page for that app, where the system administrator will see the option to ‘Review’ the app for their org.  
+
+![Screenshot of Exchange](../images/Acquire_and_Manage_6.jpg)
+
+I STOPPED HERE
+
 To check the status of a submission, go to the Manage tab and look to see if there is an approval message near the bottom of the screen. Then, follow the instructions to add a new environment to start installing the application. If it is approved, the following notification will appear: 
 
 CHANTA: ADD SCREENSHOT OF APPBUILDER App_Approval HERE. 
