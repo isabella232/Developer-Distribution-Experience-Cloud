@@ -28,11 +28,11 @@ This getting started guide introduces key areas of the [Adobe Developer Distribu
 ## Creating a Listing 
 A new listing can be created from the home page or the “Your listings” page. Clicking on ‘Create a new listing’ lands the developer on the modal overlay where they must choose the type of listing they want to create.  
 
-![Screenshot of the home page with links to three plugins](../images/App Builder Submission%201.PNG)
+![Screenshot of the home page with links to three plugins](../images/App%20Builder%20Submission%201.PNG)
 
 Some types of listings have prerequisites that developers need to fulfil before they can create the listing. For example, in order to create an App Builder application or a software integration listing, a developer either needs to belong to an Enterprise organization because they have purchased Experience Cloud products or they will need   to first register to the Technology Partner Program portal.  
 
-![Screenshot of the home page with links to three plugins](../images/App Builder Submission%202.PNG)
+![Screenshot of the home page with links to three plugins](../images/App%20Builder%20Submission%202.PNG)
 
 Once the listing type has been chosen, another modal will ask the developer to choose the project they want to be associated with the listing. The developer can either choose an existing project, or create the listing in a new project. 
 
