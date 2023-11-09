@@ -158,18 +158,4 @@ Clicking on an app’s name on the Experience Cloud Applications tab will take t
 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_6.jpg)
 
-I STOPPED HERE
 
-To check the status of a submission, go to the Manage tab and look to see if there is an approval message near the bottom of the screen. Then, follow the instructions to add a new environment to start installing the application. If it is approved, the following notification will appear: 
-
-CHANTA: ADD SCREENSHOT OF APPBUILDER App_Approval HERE. 
-
-If it is not approved or it is in pending status, the following notification will appear: 
-
-CHANTA: ADD SCREENSHOT HERE. 
-
-Once the new environment has been created, click the blue Deploy tab.  
-
-I DON'T KNOW IF THIS IS CORRECT. 
-
-CHANTA: ADD SCREENSHOT OF APPBUILDER Deploy HERE. 
