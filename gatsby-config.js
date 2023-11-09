@@ -55,7 +55,7 @@ module.exports = {
               },
               {
                 path: "guides/submission/service_to_service.md",
-                title: "Service to Service",
+                title: "Software Integrations",
               },             
             ],
           },
@@ -64,12 +64,12 @@ module.exports = {
             title: "Adobe Branding Guidelines",
           },
           {
-            path: "guides/best_practices.md",
-            title: "Benefits and Best Practices",
+            path: "guides/manage_entitlements.md",
+            title: "Manage Entitlements",
           },
           {
-            title: "FAQ",
-            path: "guides/faq.md",
+            title: "Customer Configurations",
+            path: "guides/customer_configurations.md",
           },
           {
             title: "Glossary",
