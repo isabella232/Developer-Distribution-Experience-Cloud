@@ -124,7 +124,7 @@ Listing details can be edited on a published listing. Metadata edits are highlig
 
 Edits can be submitted for review and will take effect immediately upon approval. Note the edit suffix on the submission modal and the fact that “Delayed publishing” is disabled for metadata changes to a published listing. 
 
-![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_14.png)
+![Screenshot of the home page with links to three plugins](../../images/AppBuilder_submission_14.png)
 
 ## App discovery and acquisition on Exchange marketplace (Manage screen) 
 
