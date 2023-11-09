@@ -19,7 +19,7 @@ title: FAQ - Frequently Asked Questions
 description: This is the FAQ page
 ---
 
-# Frequently Asked Questions
+# Customer Configurations
 
 This document provides answers to frequently asked questions about Adobe App Builder. This is a great place to start when troubleshooting a problem with distributing your app.
 
