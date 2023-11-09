@@ -49,7 +49,7 @@ Developer Distribution is a unified portal where you can submit and manage your 
 ## Answers
 
 ### What is Developer Distribution?
-Developer Distribution is a unified portal where you will be able to submit your CEP and UXP plugin listings, and manage them. Read [this announcement blog post](https://blog.developer.adobe.com/introducing-a-new-developer-distribution-portal-for-listing-uxp-plugins-in-the-creative-cloud-7f81376f46a9) to learn more. Also, check out the [frequently asked questions](../faq.md) about Developer Distribution.
+Developer Distribution is a unified portal where you will be able to submit your CEP and UXP plugin listings, and manage them. Read [this announcement blog post](https://blog.developer.adobe.com/introducing-a-new-developer-distribution-portal-for-listing-uxp-plugins-in-the-creative-cloud-7f81376f46a9) to learn more. Also, check out the [frequently asked questions](../customer_configurations.md) about Developer Distribution.
 
 ### Why can't I upload a plugin package larger than 300 MB? 
 Currently the new Developer Distribution portal has maximum upload of 300 MB for ZXP plugin packages. This FAQ will be updated when it's possible to upload larger packages. If you have any questions, please [write to us](mailto:ccintrev@adobe.com).  

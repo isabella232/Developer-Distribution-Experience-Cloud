@@ -29,7 +29,7 @@ This document provides answers to frequently asked questions about Adobe App Bui
 
 - [What is an App Builder app?](#what-is-an-App-Builder-app)
 - [What are the steps to create an App Builder app for public distribution?](#what-are-the-steps-to-create-an-App-Builder-app-for-public-distribution)
-- [If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?](#if-I-previously-created-a-private-App-Builder-App-via-the-App-Builder-Trial-Sign-up,-can-I-distribute-it-publicly)
+- [If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?](#if-i-previously-created-a-private-app-builder-app-via-the-app-builder-trial-sign-up-can-i-distribute-it-publicly)
 - [Where can I get more information or help?](#where-can-I-get-more-information-or-help)
 
 ## Software Integration Questions
@@ -37,10 +37,9 @@ This document provides answers to frequently asked questions about Adobe App Bui
 <br/>
 
 - [What is a software integration?](#what-is-a-software-integration)
-- [Starting December 5, 2023, do I use Developer Distribution to create and manage software integrations?](#Starting-December-5,-2023,-do-I-use-Developer-Distribution-to-create-and-manage-software-integrations)
-- [What are the steps for a new developer to create a software integration for public distribution?](#What-are-the-steps-for-a-new-developer-to-create-a-software-integration-for-public-distribution)
-- [Where can I get more information or help to understand this change better??](#Where-can-I-get-more-information-or-help-to-understand-this-change-better?)
-
+- [Starting December 5, 2023, do I use Developer Distribution to create and manage software integrations?](#starting-december-5-2023-do-i-use-developer-distribution-to-create-and-manage-software-integrations)
+- [What are the steps for a new developer to create a software integration for public distribution?](#what-are-the-steps-for-a-new-developer-to-create-a-software-integration-for-public-distribution)
+- [Where can I get more information or help to understand this change better?](#where-can-i-get-more-information-or-help-to-understand-this-change-better)
 
 ## AppBuilder Answers
 
