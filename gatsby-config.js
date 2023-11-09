@@ -39,14 +39,8 @@ module.exports = {
           },          
           {          
             path: "guides/zxp/distribution.md",
-            title: "What's new with ZXP",
-            pages: [              
-              {
-                path: "guides/zxp/resources",
-                title: "Resources",
-              },              
-            ],
-          },         
+            title: "What's new with App Manager",
+          },                   
           {
             path: "guides/plugin_id.md",
             title: "Get a Plugin ID",
