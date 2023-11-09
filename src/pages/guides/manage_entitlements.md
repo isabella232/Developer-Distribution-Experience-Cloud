@@ -19,7 +19,7 @@ title: Benefits and Best Practices
 description: This is the page for benefits and best practices of listing in our marketplace
 ---
 
-# Benefits and Best Practices
+# Manage Entitlements
 
 ## Benefits of Listing in Our Marketplace
 
