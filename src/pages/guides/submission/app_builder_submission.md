@@ -26,6 +26,7 @@ This getting started guide introduces key areas of the [Adobe Developer Distribu
 ![sample image alt text](../../images/Your_Listings_card_view.png)
 
 ## Creating a Listing 
+
 A new listing can be created from the home page or the “Your listings” page. Clicking on ‘Create a new listing’ lands the developer on the modal overlay where they must choose the type of listing they want to create.  
 
 ![Screenshot of the home page with links to three plugins](../images/App_Builder_Submission_1.PNG)
@@ -56,17 +57,18 @@ The listing details for the app are ready to be added now.
 ![Screenshot of the home page with links to three plugins](../images/App_Builder_Submission_6.PNG)
 
 ## Listing Details 
+
 Submit the App Builder new listing metadata in multiple tabs: General, Media, Categories, and Payment. All mandatory fields are marked with an asterisk.  
  
- Listing details and a new version must be submitted together for the first listing. After publishing, the developer can submit an update to the listing details or a new version independently from each other. 
+Listing details and a new version must be submitted together for the first listing. After publishing, the developer can submit an update to the listing details or a new version independently from each other. 
 
 New Submission - Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), create the listing for the Marketplace. Executing the command "Distribute" will take you the Developer Console to create a listing for the app. 
  
 The General tab has the application’s public name, a short description (subtitle), a long description, URL for documentation, support information (email and URL), URL for Privacy policy, and URL for Terms of Service. Be sure to save a draft if you navigate away from the page. 
 
-![Screenshot of the home page with links to three plugins](../images/AApp_Builder_Submission_5.PNG)
+![Screenshot of the home page with links to three plugins](../images/App_Builder_Submission_5.PNG)
 
- The Media tab requires three different icon sizes for each integration. To describe the integration, up to ten screenshots and up to ten video links can be used. A caption can be added for each image and video. 
+The Media tab requires three different icon sizes for each integration. To describe the integration, up to ten screenshots and up to ten video links can be used. A caption can be added for each image and video. 
 
 ![Screenshot of the home page with links to three plugins](../images/App_Builder_Submission_6.PNG)
 
@@ -83,6 +85,7 @@ The Payment tab is for entering purchase options to the listing. For now, the on
 ![Screenshot of the home page with links to three plugins](../images/App_Builder_Submission_8.PNG)
 
 ## Version Details 
+
 App Builder requires a package to be uploaded and validated before the developer can submit the listing for Adobe’s review. The developer will see the option to ‘Add new version’ in the left navigation bar. Clicking on ‘Add new version’ creates a new version and takes the developer to the “Version Details” page.  
 
 ![Screenshot of the home page with links to three plugins](../images/App_Builder_Submission_9.PNG)
@@ -106,13 +109,14 @@ Upon successful submission of the listing, the developer is taken to the “List
 ![Screenshot of the home page with links to three plugins](../images/App_Builder_Submission_11.PNG)
 
 ## Reviewing A Submission 
+
 When an application has been submitted for review, an Adobe administrator will review the application details. If all the information is complete and the requirements are met, the reviewer will approve the submission. The status of the submission will show a green ‘Approved’ or ‘Published’, depending on what the developer chose as the publishing time preference.  
 
 The developer is notified by email when the listing is submitted, and when it has been approved and published on the marketplace. 
 
 An existing listing can be patched by adding a second or subsequent version. In such cases, the version-level metadata from the earlier version is copied over to the new draft version for the developer to update as they see fit. 
 
-![Screenshot of the home page with links to three plugins](../images/AApp_Builder_Submission_12.PNG)
+![Screenshot of the home page with links to three plugins](../images/App_Builder_Submission_12.PNG)
 
 Listing details can be edited on a published listing. Metadata edits are highlighted by a yellow outline. The status has an edit suffix.  
 
@@ -169,5 +173,3 @@ Once the new environment has been created, click the blue Deploy tab.
 I DON'T KNOW IF THIS IS CORRECT. 
 
 CHANTA: ADD SCREENSHOT OF APPBUILDER Deploy HERE. 
-
-
