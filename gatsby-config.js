@@ -40,10 +40,6 @@ module.exports = {
           {          
             path: "guides/zxp/distribution.md",
             title: "What's new with App Manager",
-          },                   
-          {
-            path: "guides/plugin_id.md",
-            title: "Get a Plugin ID",
           },
           {
             title: "Submission",
@@ -70,10 +66,6 @@ module.exports = {
           {
             title: "Customer Configurations",
             path: "guides/customer_configurations.md",
-          },
-          {
-            title: "Glossary",
-            path: "guides/glossary.md",
           },
         ],
       },
