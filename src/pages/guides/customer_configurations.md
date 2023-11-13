@@ -1,89 +1,186 @@
----
-keywords:
-  - Creative Cloud
-  - Marketplace
-  - Exchange
-  - Distribution
-  - Extensibility
-  - SDK
-  - Developer Tooling
-  - UXP
-  - Photoshop
-  - XD
-  - Plugin
-  - JavaScript
-  - Developer Console
-  - Creative Cloud Desktop
-  - FastSpring
-title: FAQ - Frequently Asked Questions
-description: This is the FAQ page
----
+# App Builder ISV Custom Configuration 
 
-# Customer Configurations
+Developers of distributable App Builder apps can define configuration options for users to set at deploy time.
 
-This document provides answers to frequently asked questions about Adobe App Builder. This is a great place to start when troubleshooting a problem with distributing your app.
+## Defining custom configuration options
 
-## AppBuilder Questions
+Custom configuration can be defined via the `configSchema` property.
 
-<br/>
+**app.config.yaml**
+```yaml
+application: 
+  <application config>
+extensions: 
+  <extension configs>
+configSchema: # This is a top-level property and is global to the app and all extensions
+  title: 'the title'
+  description: 'the description'
+  properties:
+    - title: 'Slack Webhook'
+      type: 'string'
+      description: 'Please provide the webhook used by this application. Configure in slack.com'
+      envKey: 'SLACK_WEBHOOK'
+```
 
-- [What is an App Builder app?](#what-is-an-App-Builder-app)
-- [What are the steps to create an App Builder app for public distribution?](#what-are-the-steps-to-create-an-App-Builder-app-for-public-distribution)
-- [If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?](#if-i-previously-created-a-private-app-builder-app-via-the-app-builder-trial-sign-up-can-i-distribute-it-publicly)
-- [Where can I get more information or help?](#where-can-I-get-more-information-or-help)
+## Usage
+The `envKey` property of a custom configuration option maps to the environment variable name in the app.
 
-## Software Integration Questions
+### Runtime action 
 
-<br/>
+To use custom configuration in a Runtime action, map the `envKey` value for the desired variable
+to the inputs of the Runtime action, then access values via `params.<envKey>` in the action code. 
 
-- [What is a software integration?](#what-is-a-software-integration)
-- [Starting December 5, 2023, do I use Developer Distribution to create and manage software integrations?](#starting-december-5-2023-do-i-use-developer-distribution-to-create-and-manage-software-integrations)
-- [What are the steps for a new developer to create a software integration for public distribution?](#what-are-the-steps-for-a-new-developer-to-create-a-software-integration-for-public-distribution)
-- [Where can I get more information or help to understand this change better?](#where-can-i-get-more-information-or-help-to-understand-this-change-better)
+#### Example
+**app.config.yaml**
+```yaml
+configSchema:
+  title: 'the title'
+  description: 'the description'
+  properties:
+    - title: 'enable caching'
+      type: 'boolean'
+      envKey: 'IS_CACHING_ENABLED'                      <--- Environment variable name
+application:
+  actions: actions
+  web: web-src
+  runtimeManifest:
+    packages:
+      dx-excshell-1:
+        license: Apache-2.0
+        actions:
+          generic:
+            function: actions/generic/index.js
+            web: 'yes'
+            runtime: nodejs:16
+            inputs:
+              LOG_LEVEL: debug
+              IS_CACHING_ENABLED: $IS_CACHING_ENABLED   <--- Mapped environment variable
+            annotations:
+              require-adobe-auth: true
+              final: true
+              code-download: true
+```
+**Action code**
+```js
+async function main (params) {
+    if (params.IS_CACHING_ENABLED) {
+        enableCache()
+    }
+}
 
-## AppBuilder Answers
+exports.main = main
+```
 
-### What is an App Builder App?
+### Web application
 
-Adobe Developer App Builder provides a unified third-party extensibility framework for integrating and creating custom experiences to extend Adobe products. Enterprise customers can browse listings and then acquire and install App Builder apps from [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec). 
+To use custom configuration in the web application, values can be accessed directly via `process.env.<envKey>`.
 
-### What are the steps to create an App Builder app for public distribution?
+#### Example
+**app.config.yaml**
+```yaml
+configSchema:
+  title: 'Configurable Web App'
+  description: 'Web application that can be configured.'
+  properties:
+    - title: 'Frontend background color'
+      type: string
+      description: 'Please provide the background color for your frontend'
+      enum:
+        - blue-400
+        - celery-400
+        - indigo-400
+      envKey: FRONTEND_BACKGROUND_COLOR                <--- Environment variable name
+application:
+  web: web-src
+```
+**Component.js**
+```js
+<View backgroundColor={process.env.FRONTEND_BACKGROUND_COLOR}></View>
+```
 
-1. Join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). Note you will have to join the TPP as a Silver level or above for your published listing to be displayed publicly. At the free level, only an unlisted detail page URL is available to share with potential customers. Upon registration approval, a "sandbox" enterprise org will be assigned to your Adobe login credentials.​
+## Custom Configuration Types 
 
-2. After your registration has been approved, submit a request for an App Builder Sandbox using the [TPP sandbox request ticket](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new?ticket_form_id=20885197390989).   ​
+### Text field
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/28722775/276393554-f8415791-b030-4d80-a8aa-c04dc78ff873.png">
 
-3. Once you receive confirmation of your App Builder sandbox, go to [Developer Console](https://developer.adobe.com/developer-console/), add  App Builder to a project, and create your App Builder app.​
+```yaml
+configSchema:
+  title: 'Configure your application'
+  description: 'Set configurable variables for this Slack application'
+  properties:
+    - title: 'Slack Webhook'
+      type: 'string'
+      description: 'Please provide the webhook used by this application. Configure in slack.com'
+      envKey: 'SLACK_WEBHOOK'
+      default: 'https://slack.com/webhook' 
+```
+### Checkbox
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/28722775/276391771-b8665f2f-2b5f-4f7b-8ff1-65364c9aa2a8.png">
 
-4. Create and submit a new or updated listing for an App Builder app using Developer Distribution. You will be given the option to pick an existing project that you created in #3 (most common) or create the project in Developer Distribution and go back to the Console to add an API later.​
-All Creative Cloud plugin developers (developers of UXP and ZXP i.e. CEP/MXI & non-plugin items) who wish to list their plugins in the Creative Cloud Marketplace need to use the [Developer Distribution](https://developer.adobe.com/distribute/home) portal to submit their plugins for review and approval. Creative Cloud plugin developers can list new plugin listings and manage existing plugin listings within the Developer Distribution portal.
+```yaml
+configSchema:
+  title: 'Configure your application'
+  description: 'Customize this application to meet your needs.'
+  properties:
+    - title: 'Enable caching'
+      description: 'Determines whether or not the app caches.'
+      type: 'boolean'
+      envKey: 'IS_CACHING_ENABLED'
+```
+### Dropdown
+![image](https://user-images.githubusercontent.com/28722775/276364963-b549a8bf-e9f8-4381-8292-341c4ecb2a78.png)
 
-### If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?
+```yaml
+configSchema:
+  title: 'Configurable Web App'
+  description: 'Web application that can be configured.'
+  properties:
+    - title: 'Frontend background color'
+      type: string
+      description: 'Please provide the background color for your frontend'
+      enum:
+        - blue-400
+        - celery-400
+        - indigo-400
+      envKey: FRONTEND_BACKGROUND_COLOR
+```
+### Secret
 
-Yes, when you join the TPP program, you will be able to create an App Builder listing that can be associated with the same Developer Console Project.
+_Secret screenshot pending bug fix_
 
-### Where can I get more information or help?
+```yaml
+configSchema:
+  title: 'the title'
+  description: 'the description'
+  properties:
+    - title: 'aws secret key'
+      type: 'string'
+      secret: true 
+      envKey: 'AWS_SECRET'
+```
 
-Contact [TPP Support](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new).  
+### Multiple configuration options 
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/28722775/276405538-bddcd4fc-d20e-42d3-b574-2fae8193391b.png">
 
-## Software Integration Answers
-
-### What is a software integration?
-
-Software integration is the name for the Experience Cloud third-party listings that extend one or more Adobe Experience Cloud products.  The existing 388+ public software integration listings on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec) were submitted using App Manager. These are typically multi-tenant service-to-service integrations that require enterprise customers to contact the developer to be acquired and installed.
-
-### Starting December 5, 2023, do I use Developer Distribution to create and manage software integrations?
-
-Yes, the App Manager link in the Technology Partner Portal will be replaced with a link for [Developer Distribution](https://developer.adobe.com/developer-distribution). All previously created software integrations can be managed from Developer Distribution.
-
-### What are the steps for a new developer to create a software integration for public distribution?
-
-1.	Join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). Note you will have to join the TPP as a Silver level or above for your published listing to be displayed publicly. At the free level, only an unlisted detail page URL is available to share with potential customers. Public listings for Experience Platform Launch are available at the free level. Upon registration approval, a "sandbox" enterprise org will be assigned to your Adobe login credentials.
-2.	After your registration has been approved, submit a request for an Adobe product Sandbox for the required API using the [TPP sandbox request ticket](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new?ticket_form_id=20885197390989). 
-3.	Create a new listing for your App Builder app in [Developer Distribution](https://developer.adobe.com/developer-distribution). You will have the option to associate the listing with an existing Console project or go to Developer Console later and add an API to a project created for your new listing.
-
-### Where can I get more information or help to understand this change better?
-
-Contact [TPP Support](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new).
-
-
+```yaml
+configSchema:
+  title: 'Configurable Web App'
+  description: 'Web application that can be configured.'
+  properties:
+    - title: 'Frontend background color'
+      type: string
+      description: 'Please provide the background color for your frontend'
+      enum:
+        - blue-400
+        - celery-400
+        - indigo-400
+      envKey: FRONTEND_BACKGROUND_COLOR
+    - title: 'Enable caching'
+      description: 'Determines whether or not the app caches.'
+      type: 'boolean'
+      envKey: 'IS_CACHING_ENABLED'
+    - title: 'Slack Webhook'
+      type: 'string'
+      description: 'Please provide the webhook used by this application. Configure in slack.com'
+      envKey: 'SLACK_WEBHOOK'
+      default: 'https://slack.com/webhook' 
