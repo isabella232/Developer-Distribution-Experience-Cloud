@@ -101,11 +101,8 @@ application:
 ## Custom Configuration Types 
 
 ### Text field
-<img width="802" alt="image" src="https://user-images.githubusercontent.com/28722775/276393554-f8415791-b030-4d80-a8aa-c04dc78ff873.png">
 
-![Screenshot of the home page with links to three plugins](../../images/CC_TextField.PNG)
-
-
+![Screenshot of text field](../images/CC_TextField.PNG)
 
 ```yaml
 configSchema:
@@ -119,7 +116,8 @@ configSchema:
       default: 'https://slack.com/webhook' 
 ```
 ### Checkbox
-<img width="802" alt="image" src="https://user-images.githubusercontent.com/28722775/276391771-b8665f2f-2b5f-4f7b-8ff1-65364c9aa2a8.png">
+
+![Screenshot of text field](../images/CC_Checkbox.PNG)
 
 ```yaml
 configSchema:
@@ -132,7 +130,8 @@ configSchema:
       envKey: 'IS_CACHING_ENABLED'
 ```
 ### Dropdown
-![image](https://user-images.githubusercontent.com/28722775/276364963-b549a8bf-e9f8-4381-8292-341c4ecb2a78.png)
+
+![Screenshot of text field](../images/CC_Dropdown.PNG)
 
 ```yaml
 configSchema:
