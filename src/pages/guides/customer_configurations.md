@@ -1,5 +1,7 @@
 # App Builder ISV Custom Configuration 
 
+MARTIN TO CREATE AN INTRO SENTENCE HERE. 
+
 Developers of distributable App Builder apps can define configuration options for users to set at deploy time.
 
 ## Defining custom configuration options
