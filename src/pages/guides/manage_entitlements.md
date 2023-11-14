@@ -15,76 +15,72 @@ keywords:
   - Developer Console
   - Creative Cloud Desktop
   - FastSpring
-title: Benefits and Best Practices
-description: This is the page for benefits and best practices of listing in our marketplace
+title: Getting Started
+description: This is the getting started page
 ---
 
 # Manage Entitlements
 
-## Benefits of Listing in Our Marketplace
+This getting started guide introduces key areas of the [Adobe Developer Distribution portal](/distribute/home) to help you begin distributing your apps quickly and easily. The Adobe Developer Distribution portal enables you to quickly publish a **listing** for your app on two Creative Cloud Marketplaces; the Creative Cloud desktop app Marketplace and Adobe Exchange in these three easy steps:
 
-1. Millions of Creative Cloud users will have direct access to your plugin(s) through the Creative Cloud desktop app or the Adobe Exchange webpage.
 
-2. Easy, one click installation; installation is handled by the Creative Cloud desktop app.
+## App discovery and acquisition on Exchange marketplace (Manage screen) 
 
-3. Plugin acquisition is tied to an Adobe ID. Users may easily reinstall your plugin on a new machine or on alternative hardware.
+Published App Builder apps start showing up on the Exchange marketplace in the Experience Cloud browse page. The App Builder app can be discovered by using keyword search and filters, such as Adobe products, the app extension, industry, and country. Users can also filter apps by partnership level of the app publishers. 
 
-4. Users are automatically notified of plugin updates and installing updates is easy.
+![Screenshot of Exchange](../../images/Acquire_and_Manage_1.jpg)
 
-5. With developer profiles, users can easily find all of your plugins on one page.
+Clicking on the name of an app listing will take the marketplace user to that app listing’s details page. The listing details page will show ‘App Builder’ as one of the Required products.
 
-6. An easy monetization opportunity built in. Adobe uses [FastSpring](https://fastspring.com/sign-up/payee-adobe/) for the handling of payments.
+![Screenshot of Exchange](../../images/Acquire_and_Manage_2.jpg)
 
-7. Users can trust that plugins listed on the Marketplace are both secure and useable, because they have gone through a formal review process.
+If, after viewing the application details, the user decides to acquire the app, they can click the ‘Free’ button on the top right. This will open a window informing them about which Adobe products their organization should have in order for the app to function as intended.   
 
-8. You may use our official "Designed for" badges to promote your plugin.
+![Screenshot of Exchange](../../images/Acquire_and_Manage_3.jpg)
 
-9. Additional Support is available to users for installation issues.
+Clicking ‘Yes, continue’ will display the link for the end-user license agreement provided by the developer of the app. 
 
-<!-- 10. Developers receive a free Creative Cloud subscription. For a free seat, please contact us at [ccintrev@adobe.com](mailto:ccintrev@adobe.com). -->
+![Screenshot of Exchange](../../images/Acquire_and_Manage_4.jpg)
 
-## Best Practices
+If the user clicks on the ‘Accept and continue’ button on the End-user license agreement, they will be taken to the sign-up-sign-in screen and required to login to the Exchange marketplace (if they aren’t already logged in). Once they log in, the app will be acquired for the org that they are logged in to. The ‘Free’ button will be replaced by ‘Manage’, and the app will start showing as ‘Acquired’. Users will also see a confirmation informing them that the app has been acquired, and the system administrator of their org needs to approve the acquisition before it can be installed and used. 
 
-#### Use the same developer Adobe ID for both UXP and CEP plugins
+Clicking ‘Manage’ on the app listing details page, or the ‘Manage your app’ button will route the user to the tab Experience Cloud Applications tab on the ‘Manage’ page, where the application details page for that app will appear.  
 
-You should always use the same Adobe ID to submit CEP and UXP plugins. This makes it easier to track plugin performance, manage your listings, and respond to user comments.
+The user can also navigate to the Manage tab from the global navigation bar on the Exchange marketplace and click on the ‘Experience Cloud Applications’ tab to view all apps acquired for their org. Admins will also see the option to ‘Review’ for apps that have been acquired, but not approved yet. 
 
-#### Proper Description
+![Screenshot of Exchange](../../images/Acquire_and_Manage_5.jpg)
 
-Use the description field to explain what your plugin can do, what its features and functionality are, and what can be achieved using the plugin. It is very beneficial for end users if you provide a video that captures plugin functionality so that new users get a better understanding of how to use your plugin.
+Clicking on an app’s name on the Experience Cloud Applications tab will take the user to the application details page for that app, where the user will see the options to ‘Get support’ from the developer, ‘View documentation’ for the app, and ‘View listing’ on the Exchange marketplace. The system administrator will also see the option to ‘Review’ the app for their org.  
 
-#### Update Your Plugin(s) Regularly
+![Screenshot of Exchange](../../images/Acquire_and_Manage_6.jpg)
 
-Updating your plugin(s) on a regular basis to make it compatible with the latest version of the supported point product. Updating you plugin(s) will provide an awesome and seamless experience for the end user which will reflect on your revenue and ratings.
+Clicking on ‘Review’ will open the modal ‘Review this application’ with the app’s name and description. The system administrator will need to add notes to approve or reject the app for use. 
 
-#### Share Test Credentials
+![Screenshot of Exchange](../../images/Acquire_and_Manage_7.jpg)
 
-Always share test credentials with the review team via the "Notes to Adobe reviewers" section. Sharing test credentials while submitting the listing will help us expedite the review process.
+If the system administrator rejects the app, the user will see the option to request for approval again on the application’s details page. 
 
-#### Share a License
+![Screenshot of Exchange](../../images/Acquire_and_Manage_8.jpg)
 
-Some plugins require users to enter a license key before use. If the same is to be done for your plugin and FastSpring is used to handle your payments, you should share 100 license keys with the review team via the "Notes to Adobe reviewers" section and we will store the license keys on FastSpring. FastSpring will distribute the license key to users who have successfully purchased your plugin.
+Clicking on ‘Request again’ will change the status of the app to ‘Pending review’. A request will then be sent to the system administrators of the organization to review the app. The user will be routed back to the Experience Cloud Applications tab with a success toast informing them that their request for review was sent successfully. 
 
-<InlineAlert slots="text"/>
+If the administrator approved the app, the status of the app will change to ‘Approved’. The administrators of the organization will start seeing the option to ‘Revoke’ the app on the application’s details page.  
 
-You will be contacted by asupport@adobe.com to provide an additional license to be restored on FastSpring before the current license expires so users can obtain a license key after purchase.
+![Screenshot of Exchange](../../images/Acquire_and_Manage_9.jpg)
 
-**Note:** The number of licenses you want to store on FastSpring is up to you, the developer. In general, we encourage developers to share at least 100 licenses, although you are free to share fewer or more license keys if you wish to do so.
+For the users in the organization to start using the application, the administrator will need to add and install environments that they need. Clicking ‘Add environment’, the administrator will see the modal to name a new environment and save it. 
 
-#### Provide Proper Installation Instructions
+![Screenshot of Exchange](../../images/Acquire_and_Manage_10.jpg)
 
-Make sure to provide proper installation instructions under the "Where to find" section, like what files users need to install, or where to place the files. If the plugin supports multiple Adobe products and the instructions are not the same for each product, then the developer must provide the installation instruction for each point product individually. For example, if the installation instructions are different for Photoshop versus InDesign, please include the instructions for both products.
+Upon creation of a new environment, the administrator will see a success toast on the application details page, and a message that the environments have been created for the application. 
 
-Follow the Adobe Brand Guidelines: Before you use any Adobe brand asset, (for example, product icons) you are required to read the Adobe Brand Guidelines and adhere to them. Without obtaining proper authorization from Adobe, you should never use an asset in your listing or for any marketing purposes. Use of Adobe assets without prior approval will result in rejection.
+![Screenshot of Exchange](../../images/Acquire_and_Manage_11.jpg)
 
-#### Provide Support
+Clicking on the card of an environment will route the administrator to the details page for that environment. On the ‘Configuration’ tab, they will see the option to choose the custom configurations and product profiles for the environment before deploying the application. These custom configurations are provided by the developer of the applications while uploading the application’s package on Developer Distribution. So, they will vary from application to application, depending on the configurations that the developer needs for their application to function optimally. 
 
-You must make sure that users can always reach out to you and inform you of problems with your plugin. In many cases, we have seen that users give poor reviews and ratings to plugins due to a lack of communication.
+![Screenshot of Exchange](../../images/Acquire_and_Manage_12.jpg)
 
-#### Additional Payment
+After choosing the configurations and product profiles, the administrator will be able to deploy the application. Upon clicking ‘Deploy’, a toast will let them know that deployment is underway and might take a few minutes. 
 
-If any kind of additional payment is needed to use your plugin, then you must share all the information about it with the user, and you must write about it in the plugin description.
+![Screenshot of Exchange](../../images/Acquire_and_Manage_13.jpg)
 
-#### Companion application
-
-If any kind of additional application is required for your plugin to work then information about this must be mentioned in the plugin description and you should specify where the user can download the companion application.
