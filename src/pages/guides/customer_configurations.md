@@ -164,7 +164,7 @@ configSchema:
 
 ### Multiple configuration options 
 
-![Screenshot of Multiple Configuration](../images/CC_Mult_Config.PNG)
+![Screenshot of Multiple Configuration](../images/CC_Mult_Config.png)
 
 ```yaml
 configSchema:
