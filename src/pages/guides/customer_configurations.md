@@ -117,7 +117,7 @@ configSchema:
 ```
 ### Checkbox
 
-![Screenshot of text field](../images/CC_Checkbox.PNG)
+![Screenshot of checkbox](../images/CC_Checkbox.PNG)
 
 ```yaml
 configSchema:
@@ -131,7 +131,7 @@ configSchema:
 ```
 ### Dropdown
 
-![Screenshot of text field](../images/CC_Dropdown.PNG)
+![Screenshot of dropdown](../images/CC_Dropdown.PNG)
 
 ```yaml
 configSchema:
@@ -163,7 +163,8 @@ configSchema:
 ```
 
 ### Multiple configuration options 
-<img width="802" alt="image" src="https://user-images.githubusercontent.com/28722775/276405538-bddcd4fc-d20e-42d3-b574-2fae8193391b.png">
+
+![Screenshot of Multiple Configuration](../images/CC_Mult_Config.PNG)
 
 ```yaml
 configSchema:
