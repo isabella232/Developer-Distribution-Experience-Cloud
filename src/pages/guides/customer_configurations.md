@@ -103,6 +103,8 @@ application:
 ### Text field
 <img width="802" alt="image" src="https://user-images.githubusercontent.com/28722775/276393554-f8415791-b030-4d80-a8aa-c04dc78ff873.png">
 
+![Screenshot of the home page with links to three plugins](../../images/CC_Textfield.PNG)
+
 ```yaml
 configSchema:
   title: 'Configure your application'
