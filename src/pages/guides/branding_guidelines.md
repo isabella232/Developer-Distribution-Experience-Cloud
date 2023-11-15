@@ -19,14 +19,11 @@ title: Branding Guidelines
 description: This is the page for branding guidelines
 ---
 
-# Adobe Branding Guidelines
+# Adobe Technology Partner Program for Adobe Experience Cloud guidelines
 
-There is a [predefined set of guidelines](../Adobe_Creative_Cloud_Developer_Guidelines.pdf) that are published by Adobe periodically for the use of Adobe assets and product icons. It is expected that developers strictly adhere to these guidelines.
+These guidelines have been created to give you an overview of the program, specifics about using your program badge, as well as other Adobe assets available to you. All of these elements are meant to be used within your own unique branded look and feel—one that distinguishes them from the Adobe look and feel.
 
-- Association with Adobe will increase acceptability within the user community, and users are confident that plugins will meet Adobe's quality standards, which developers can leverage by using Adobe assets with their products.
+We expect you to thoroughly read the [Adobe Branding Guidelines](https://www.adobe.com/go/tpp_brand_guide) with due diligence and follow the guidelines exactly. Failure to do so will result in rejection during the review process.
 
-- Adobe does not allow any change of product icons. Developers are allowed to use Adobe published assets and logos within their products, as long as they do not alter Adobe icons in any way.
+Please note that you will need to login in to your Technology Partner Program partner page with a registered account, in order to access the brand guidelines.
 
-- We expect you to thoroughly read the [Adobe Branding Guidelines](../Adobe_Creative_Cloud_Developer_Guidelines.pdf) with due diligence and follow the guidelines exactly. Failure to do so will result in rejection during the review process.
-
-- These are the approved [Creative Cloud developer brand assets](https://www.adobe.com/go/distribute-cc-brand-assets) that you can use in-app or for marketing of your plugin listings. Please note that you're required to login with a valid Adobe ID to access this page.
