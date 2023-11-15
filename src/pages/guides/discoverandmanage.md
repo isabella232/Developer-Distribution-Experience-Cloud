@@ -69,7 +69,7 @@ If the system administrator rejects the app, the user will see the option to req
 
 Clicking on ‘Request again’ will change the status of the app to ‘Pending review’. A request will then be sent to the system administrators of the organization to review the app. The user will be routed back to the Experience Cloud Applications tab with a success toast informing them that their request for review was sent successfully. 
 
-![Screenshot of Exchange](../images/Acquire_and_Manage_Success.PNG)
+![Screenshot of Exchange](../images/Acquire_and_Manage-success.png)
 
 If the administrator approves the app, the status of the app will change to ‘Approved’. The administrators of the organization will start seeing the option to ‘Revoke’ the app on the application’s details page.    
 
@@ -93,7 +93,7 @@ After choosing the configurations and product profiles, the administrator will b
 
 On successful deployment of an environment, the status of that environment will change to ‘Deployed’. The option to ‘Delete environment’ will be disabled for the administrator. If they want to delete the environment, they will need to undeploy the environment first. 
 
-![Screenshot of Exchange](../images/Acquire_and_Manage_Environment_Details.PNG) 
+![Screenshot of Exchange](../images/Acquire_and_Manage_environment-details.png) 
 
  ### Revoking an application 
 System administrator will see the option to ‘Revoke’ a deployed application on the Application details tab.  
@@ -107,7 +107,7 @@ System administrator will see the option to ‘Revoke’ a deployed application 
 ### Getting support for an application 
 An acquired application’s ‘Application details’ page will show the option to ‘Get support’. The option will show for an application that has been approved, rejected or revoked by the system administrator.  
  
-![Screenshot of Exchange](../images/Acquire_and_Manage_Getting_Support.PNG)
+![Screenshot of Exchange](../images/Acquire_and_Manage_getting-support.png)
 
   
 The modal auto-fills the email and name of the user, and they are asked for their company name. The support they require with the application can be shared in the open-text field ‘Message to publisher’. On clicking ‘Submit’. The user lands up on the ‘Application details’ page with a success toast informing them that an email was sent to the publisher of the application. 
