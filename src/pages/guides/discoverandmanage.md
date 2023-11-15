@@ -91,3 +91,28 @@ After choosing the configurations and product profiles, the administrator will b
 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_13.jpg)
 
+On successful deployment of an environment, the status of that environment will change to ‘Deployed’. The option to ‘Delete environment’ will be disabled for the administrator. If they want to delete the environment, they will need to undeploy the environment first. 
+
+![Screenshot of Exchange](../images/Acquire_and_Manage_Environment_Details.PNG) 
+
+ ### Revoking an application 
+System administrator will see the option to ‘Revoke’ a deployed application on the Application details tab.  
+
+![Screenshot of Exchange](../images/Acquire_and_Manage_14.jpg)
+
+ On clicking ‘Revoke’, administrator will see a modal informing them that if they revoke the app, it’ll be uninstalled for everyone in their organization, and to reuse the application, they’ll need to go through the review cycle again. On clicking on the button ‘Revoke’ on the modal, all installations of the application will undeployed for the organization. 
+
+![Screenshot of Exchange](../images/Acquire_and_Manage_15.jpg)
+
+### Getting support for an application 
+An acquired application’s ‘Application details’ page will show the option to ‘Get support’. The option will show for an application that has been approved, rejected or revoked by the system administrator.  
+ 
+![Screenshot of Exchange](../images/Acquire_and_Manage_Getting_Support.PNG)
+
+  
+The modal auto-fills the email and name of the user, and they are asked for their company name. The support they require with the application can be shared in the open-text field ‘Message to publisher’. On clicking ‘Submit’. The user lands up on the ‘Application details’ page with a success toast informing them that an email was sent to the publisher of the application. 
+
+![Screenshot of Exchange](../images/Acquire_and_Manage_17.jpg)
+ 
+ 
+
