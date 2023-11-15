@@ -19,9 +19,9 @@ title: FAQ - Frequently Asked Questions
 description: This is the FAQ page
 ---
 
-# What's New:  Experience Cloud Support in Developer Distribution
+# What's New: Experience Cloud Support in Developer Distribution
 
-Developer Distribution is a single distribution portal to submit and manage listings for extensibility apps for Experience Cloud and Creative Cloud products to be discovered publicly on the Adobe Exchange marketplace. The Frequently Asked Questions below will explain the two new types of Experience Cloud listings that can now be submitted in Developer Distribution.
+Developer Distribution is a unified portal to submit and manage listings for Experience Cloud and Creative Cloud extensibility, to be discovered publicly on the Adobe Exchange marketplace. The Frequently Asked Questions below will explain the two new types of Experience Cloud listings that can now be submitted in Developer Distribution. 
 
 ## Software Integration Questions
 
