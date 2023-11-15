@@ -33,7 +33,7 @@ A **listing** is what users see on a Marketplace. It contains metadata to descri
 
 ## Overview
 
-The following section will provide a brief overview of each view in the [Adobe Developer Distribution portal](/distribute/home) to help developers get started using it quickly. This applies to both App Builder and software integration applications. 
+The following section will provide a brief overview of each view in the [Adobe Developer Distribution portal](/distribute/home) to help developers get started using it quickly. This applies to both App Builder and software integration applications.
 
 ## Home
 
@@ -41,7 +41,7 @@ The home page is where developers create their public profile and create a new l
 
 ![Screenshot of the home page without any created plugins](../images/Overview_1.png)
 
-As listings are created, up to three of the most recent will be shown for quick view and access. As listings are published, an "Insights" summary table will replace the "Get Started" box. 
+As listings are created, up to three of the most recent will be shown for quick view and access. As listings are published, an "Insights" summary table will replace the "Get Started" box.
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_2.png)
 
@@ -49,41 +49,40 @@ To manage more than three listings, choose the **All listings** link or the **Li
 
 ## Listings
 
-The developer can manage their listings either in card view or list view. Clicking View on any card leads to the Listing details screens to update the listing details or plugin version. The ellipsis points to more options to manage listing lifecycle, such as publish an approved app or retract a published one. Note that until an app icon is uploaded, a default product mnemonic logo will appear. 
+The developer can manage their listings either in card view or list view. Clicking View on any card leads to the Listing details screens to update the listing details or plugin version. The ellipsis points to more options to manage listing lifecycle, such as publish an approved app or retract a published one. Note that until an app icon is uploaded, a default product mnemonic logo will appear.
 
-CARD VIEW 
+CARD VIEW
 
 ![Screenshot of the home page without any created plugins](../images/Overview_3.png)
 
-LIST VIEW 
+LIST VIEW
 
-This view allows developers to see more information on their listings. 
+This view allows developers to see more information on their listings.
 
-![Screenshot of the home page without any created plugins](../images/Overview_4.png) 
+![Screenshot of the home page without any created plugins](../images/Overview_4.png)
 
-## Managing a Listing 
+## Managing a Listing
 
-The developer can click on a listing's name or View button on the home page of “Your listings” page to navigate to a specific listing. Clicking the name of the listing or View button, will land users on the “Listing Overview” page.  
+The developer can click on a listing's name or View button on the home page of “Your listings” page to navigate to a specific listing. Clicking the name of the listing or View button, will land users on the “Listing Overview” page.
 
 ![Screenshot of the home page without any created plugins](../images/Overview_5.png)
 
-The developer can navigate to the “Listing details” page to add listing level metadata details that help users discover their listing in the marketplace once it’s published.  
+The developer can navigate to the “Listing details” page to add listing level metadata details that help users discover their listing in the marketplace once it’s published.
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_6.png)
 
-Some of the listing types require a package to be uploaded and validated before the developer can submit the listing for Adobe review. In such cases, the developer will see the option to ‘Add new version’ in the left navigation bar. Clicking on ‘Add new version’ creates a new version and takes the developer to the version details page for the new draft version. The developer can also patch an existing listing by adding a second or subsequent version. In such cases, the version-level metadata from the earlier version is copied over to the new draft version, and the developer can update it as they see fit.  
+Some of the listing types require a package to be uploaded and validated before the developer can submit the listing for Adobe review. In such cases, the developer will see the option to ‘Add new version’ in the left navigation bar. Clicking on ‘Add new version’ creates a new version and takes the developer to the version details page for the new draft version. The developer can also patch an existing listing by adding a second or subsequent version. In such cases, the version-level metadata from the earlier version is copied over to the new draft version, and the developer can update it as they see fit.
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_7.png)
 
-Once the listing is approved, the developer can also edit the listing-level metadata fields (such as its description and support information). The edits to an Approved, Published or Rejected listing also need to go through Adobe review, in order to be approved and merged with the original listing.  
+Once the listing is approved, the developer can also edit the listing-level metadata fields (such as its description and support information). The edits to an Approved, Published or Rejected listing also need to go through Adobe review, in order to be approved and merged with the original listing.
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_8.png)
 
 ## Insights
 
-Insights are available for the listing types that can be acquired from the Adobe Exchange marketplace such as App Builder apps. For such listings, the developer can view the number of plugins acquired by month and year, as well as multiple version status summary for listings that have versions. 
+Insights are available for the listing types that can be acquired from the Adobe Exchange marketplace such as App Builder apps. For such listings, the developer can view the number of plugins acquired by month and year, as well as multiple version status summary for listings that have versions.
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_9.png)
 
 The app is now ready to be submitted. For instructions on this, see the App Builder Submission section.
-

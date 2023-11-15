@@ -51,7 +51,7 @@ The lifecycle of a _Listing_ can be tracked by status on the “Your Listings”
 
 - **Draft** – A _Listing_ that does not have complete metadata or has not been reviewed.
 
-- **In Review** – A _Listing_ that has been submitted but is waiting for reviewer approval
+- **In Review** – A _Listing_ that has been submitted but is waiting for reviewer approval.
 
 - **Approved** – A _Listing_ that has been reviewed but not yet published. A developer has chosen to “publish later” and can do so by clicking the “Publish” CTA.
 

@@ -48,11 +48,11 @@ module.exports = {
               {
                 path: "guides/submission/app_builder_submission.md",
                 title: "App Builder ISV",
-              },
-              {
-                path: "guides/submission/service_to_service.md",
-                title: "Software Integrations",
-              },             
+              }
+              // {
+              //   path: "guides/submission/service_to_service.md",
+              //   title: "Software Integrations",
+              // },             
             ],
           },
           {

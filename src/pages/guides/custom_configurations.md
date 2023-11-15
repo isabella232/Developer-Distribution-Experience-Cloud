@@ -1,6 +1,4 @@
-# App Builder ISV Custom Configuration 
-
-MARTIN TO CREATE AN INTRO SENTENCE HERE. 
+# App Builder ISV Custom Configuration
 
 Developers of distributable App Builder apps can define configuration options for users to set at deploy time.
 
@@ -10,9 +8,9 @@ Custom configuration can be defined via the `configSchema` property.
 
 **app.config.yaml**
 ```yaml
-application: 
+application:
   <application config>
-extensions: 
+extensions:
   <extension configs>
 configSchema: # This is a top-level property and is global to the app and all extensions
   title: 'the title'
@@ -27,10 +25,9 @@ configSchema: # This is a top-level property and is global to the app and all ex
 ## Usage
 The `envKey` property of a custom configuration option maps to the environment variable name in the app.
 
-### Runtime action 
+### Runtime action
 
-To use custom configuration in a Runtime action, map the `envKey` value for the desired variable
-to the inputs of the Runtime action, then access values via `params.<envKey>` in the action code. 
+To use custom configuration in a Runtime action, map the `envKey` value for the desired variable to the inputs of the Runtime action, then access values via `params.<envKey>` in the action code.
 
 #### Example
 **app.config.yaml**
@@ -78,6 +75,7 @@ exports.main = main
 To use custom configuration in the web application, values can be accessed directly via `process.env.<envKey>`.
 
 #### Example
+
 **app.config.yaml**
 ```yaml
 configSchema:
@@ -100,7 +98,7 @@ application:
 <View backgroundColor={process.env.FRONTEND_BACKGROUND_COLOR}></View>
 ```
 
-## Custom Configuration Types 
+## Custom Configuration Types
 
 ### Text field
 
@@ -115,8 +113,9 @@ configSchema:
       type: 'string'
       description: 'Please provide the webhook used by this application. Configure in slack.com'
       envKey: 'SLACK_WEBHOOK'
-      default: 'https://slack.com/webhook' 
+      default: 'https://slack.com/webhook'
 ```
+
 ### Checkbox
 
 ![Screenshot of checkbox](../images/cc-checkbox.png)
@@ -131,6 +130,7 @@ configSchema:
       type: 'boolean'
       envKey: 'IS_CACHING_ENABLED'
 ```
+
 ### Dropdown
 
 ![Screenshot of dropdown](../images/cc-dropdown.png)
@@ -149,6 +149,7 @@ configSchema:
         - indigo-400
       envKey: FRONTEND_BACKGROUND_COLOR
 ```
+
 ### Secret
 
 _Secret screenshot pending bug fix_
@@ -164,7 +165,7 @@ configSchema:
       envKey: 'AWS_SECRET'
 ```
 
-### Multiple configuration options 
+### Multiple configuration options
 
 ![Screenshot of Multiple Configuration](../images/cc-mult-config.png)
 
@@ -189,4 +190,4 @@ configSchema:
       type: 'string'
       description: 'Please provide the webhook used by this application. Configure in slack.com'
       envKey: 'SLACK_WEBHOOK'
-      default: 'https://slack.com/webhook' 
+      default: 'https://slack.com/webhook'

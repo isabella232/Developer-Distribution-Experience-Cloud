@@ -26,4 +26,3 @@ These guidelines have been created to give you an overview of the program, speci
 We expect you to thoroughly read the [Adobe Branding Guidelines](https://www.adobe.com/go/tpp_brand_guide) with due diligence and follow the guidelines exactly. Failure to do so will result in rejection during the review process.
 
 Please note that you will need to login in to your Technology Partner Program partner page with a registered account, in order to access the brand guidelines.
-
