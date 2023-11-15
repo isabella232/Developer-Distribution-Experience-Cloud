@@ -39,7 +39,7 @@ module.exports = {
           },          
           {          
             path: "guides/zxp/distribution.md",
-            title: "What's new with App Manager",
+            title: "What's new",
           },
           {
             title: "Submission",
@@ -60,12 +60,12 @@ module.exports = {
             title: "Adobe Branding Guidelines",
           },
           {
-            path: "guides/manage_entitlements.md",
-            title: "Manage Entitlements",
+            path: "guides/discoverandmanage.md",
+            title: "Discover and Manage",
           },
           {
-            title: "Customer Configurations",
-            path: "guides/customer_configurations.md",
+            title: "Custom Configurations",
+            path: "guides/custom_configurations.md",
           },
         ],
       },
