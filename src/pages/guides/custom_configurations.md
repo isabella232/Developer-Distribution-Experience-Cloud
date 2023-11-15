@@ -104,7 +104,7 @@ application:
 
 ### Text field
 
-![Screenshot of text field](../images/c-textfield.png)
+![Screenshot of text field](../images/cc-textfield.png)
 
 ```yaml
 configSchema:
