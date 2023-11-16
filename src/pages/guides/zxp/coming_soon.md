@@ -50,7 +50,7 @@ Developer Distribution is a unified portal where you will be able to submit your
 
 ### Why can't I see my CEP Listings?
 
-If you had multiple users that could access your ZXP listings in the Creative Cloud Adobe Exchange Portal, someone from your team was the primary contact for that account. That person will be assigned as the administrator of a newly created developer organization with all ZXP existing listings assigned to that developer org. Please ask that person to log into [Adobe Admin Console](https://adminconsole.adobe.com/) to assign your Adobe ID in the same org and your access will be restored. Now ZXP and UXP developers can use a single org (with multiple users) to manage all their plugins and they will appear together under one publisher profile on Adobe Exchange.  ​ 
+If you had multiple users that could access your ZXP listings in the Creative Cloud Adobe Exchange Portal, someone from your team was the primary contact for that account. That person will be assigned as the administrator of a newly created developer organization with all ZXP existing listings assigned to that developer org. Please ask that person to log into [Adobe Admin Console](https://adminconsole.adobe.com/) to assign your Adobe ID in the same org and your access will be restored. Now ZXP and UXP developers can use a single org (with multiple users) to manage all their plugins and they will appear together under one publisher profile on Adobe Exchange.
 
 ### How can I be added to a developer org?
 
@@ -96,7 +96,7 @@ You can read more about the details in the [recently published blog post](https:
 
 #### Developer Account Merge
 
-- As part of the migration of all listings from the Exchange Partner Portal to Developer Distribution, for Developers with two accounts, we will assign their Developer Distribution accounts to their newly migrated ZXP/CEP listings. 
+- As part of the migration of all listings from the Exchange Partner Portal to Developer Distribution, for Developers with two accounts, we will assign their Developer Distribution accounts to their newly migrated ZXP/CEP listings.
 - Once all of the (UXP, ZXP/CEP) listings are assigned under the same account, developers will be able to manage all their listings from Developer Distribution.
 
 ### What if I only have one account on the Developer Distribution portal?

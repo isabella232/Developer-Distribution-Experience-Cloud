@@ -60,7 +60,7 @@ Yes, the App Manager link in the Technology Partner Portal will be replaced with
 ### What are the steps for a new developer to create a software integration for public distribution?
 
 1.	Join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). Note you will have to join the TPP as a Silver level or above for your published listing to be displayed publicly. At the free level, only an unlisted detail page URL is available to share with potential customers. Public listings for Experience Platform Launch are available at the free level. Upon registration approval, a "sandbox" enterprise org will be assigned to your Adobe login credentials.
-2.	After your registration has been approved, submit a request for an Adobe product Sandbox for the required API using the [TPP sandbox request ticket](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new?ticket_form_id=20885197390989). 
+2.	After your registration has been approved, submit a request for an Adobe product Sandbox for the required API using the [TPP sandbox request ticket](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new?ticket_form_id=20885197390989).
 3.	Create a new listing for your App Builder app in [Developer Distribution](https://developer.adobe.com/developer-distribution). You will have the option to associate the listing with an existing Console project or go to Developer Console later and add an API to a project created for your new listing.
 
 ### Where can I get more information or help to understand this change better?

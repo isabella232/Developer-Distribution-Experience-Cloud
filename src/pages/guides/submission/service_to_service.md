@@ -59,7 +59,7 @@ The listing details for the app are ready to be added now.
 ## Listing Details
 
 Submit the App Builder new listing metadata in multiple tabs: General, Media, Categories, and Payment. All mandatory fields are marked with an asterisk.
- 
+
 Listing details and a new version must be submitted together for the first listing. After publishing, the developer can submit an update to the listing details or a new version independently from each other.
 
 New Submission - Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), create the listing for the Marketplace. Executing the command "Distribute" will take you the Developer Console to create a listing for the app.

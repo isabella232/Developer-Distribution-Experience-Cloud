@@ -99,8 +99,8 @@ On successful deployment of an environment, the status of that environment will 
 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_environment-details.png)
 
- ### Revoking an application
- 
+### Revoking an application
+
 System administrator will see the option to ‘Revoke’ a deployed application on the Application details tab.
 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_14.jpg)
@@ -112,10 +112,9 @@ System administrator will see the option to ‘Revoke’ a deployed application 
 ### Getting support for an application
 
 An acquired application’s ‘Application details’ page will show the option to ‘Get support’. The option will show for an application that has been approved, rejected or revoked by the system administrator.
- 
+
 ![Screenshot of Exchange](../images/Acquire_and_Manage_getting-support.png)
-  
+
 The modal auto-fills the email and name of the user, and they are asked for their company name. The support they require with the application can be shared in the open-text field ‘Message to publisher’. On clicking ‘Submit’. The user lands up on the ‘Application details’ page with a success toast informing them that an email was sent to the publisher of the application.
 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_17.jpg)
- 
