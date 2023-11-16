@@ -23,7 +23,7 @@ description: This is the FAQ page
 
 # What's New: Experience Cloud Support in Developer Distribution
 
-App Manager will be migrated to Developer Distribution starting December 5, 2023.
+App Manager will be migrated to Developer Distribution starting December 6, 2023.
 
 App Builder apps can now be submitted in [Developer Distribution](/distribute). Developer Distribution is a unified portal to submit and manage listings for Experience Cloud and Creative Cloud extensibility, to be discovered publicly on the Adobe Exchange marketplace. The Frequently Asked Questions below will explain the two new types of Experience Cloud listings that can now be submitted in Developer Distribution.
 
@@ -34,7 +34,7 @@ App Builder apps can now be submitted in [Developer Distribution](/distribute). 
 <br/>
 
 - [What is a software integration?](#what-is-a-software-integration)
-- [Starting December 5, 2023, do I use Developer Distribution to create and manage software integrations?](#starting-december-5-2023-do-i-use-developer-distribution-to-create-and-manage-software-integrations)
+- [Starting December 6, 2023, do I use Developer Distribution to create and manage software integrations?](#starting-december-6-2023-do-i-use-developer-distribution-to-create-and-manage-software-integrations)
 - [What are the steps for a new developer to create a software integration for public distribution?](#what-are-the-steps-for-a-new-developer-to-create-a-software-integration-for-public-distribution)
 - [Where can I get more information or help to understand this change better?](#where-can-i-get-more-information-or-help-to-understand-this-change-better)
   
@@ -53,7 +53,7 @@ App Builder apps can now be submitted in [Developer Distribution](/distribute). 
 
 Software integration is the name for the Experience Cloud third-party listings that extend one or more Adobe Experience Cloud products.  The existing 388+ public software integration listings on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec) were submitted using App Manager. These are typically multi-tenant service-to-service integrations that require enterprise customers to contact the developer to be acquired and installed.
 
-### Starting December 5, 2023, do I use Developer Distribution to create and manage software integrations?
+### Starting December 6, 2023, do I use Developer Distribution to create and manage software integrations?
 
 Yes, the App Manager link in the Technology Partner Portal will be replaced with a link for [Developer Distribution](https://developer.adobe.com/developer-distribution). All previously created software integrations can be managed from Developer Distribution.
 
@@ -69,7 +69,7 @@ Contact [TPP Support](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new)
 
 ## AppBuilder Answers
 
-### What is an App Builder App?
+### What is an App Builder app?
 
 Adobe Developer App Builder provides a unified third-party extensibility framework for integrating and creating custom experiences to extend Adobe products. Enterprise customers can browse listings and then acquire and install App Builder apps from [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
 

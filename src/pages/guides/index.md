@@ -59,14 +59,8 @@ Get to know the key concepts around the developer distribution portal.
 
 <DiscoverBlock slots="link, text"/>
 
-[Get a Plugin ID](./plugin_id.md)
+[Submission](./submission/overview.md)
 
-Learn how to get a plugin ID for your plugin.
-
-<DiscoverBlock slots="link, text"/>
-
-[Submission and Review](./submission/overview.md)
-
-Learn about the submission and review process for your plugin.
+Learn about the submission process once you are ready to publish.
 
 <br/><br/><br/><br/>
