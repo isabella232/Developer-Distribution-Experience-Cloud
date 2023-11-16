@@ -28,7 +28,7 @@ The Creative Cloud Adobe Exchange portal you are used to will soon be merged int
 
 ## Overview
 
-Developer Distribution is a unified portal where you will soon be able to submit your CEP and UXP plugin listings, and manage them. Read through the [frequently asked questions](../customer_configurations.md) about Developer Distribution, or start exploring the Developer Distribution portal by clicking the **Distribute** button in the top right of this page.​
+Developer Distribution is a unified portal where you will soon be able to submit your CEP and UXP plugin listings, and manage them. Read through the [frequently asked questions](../custom_configurations.md) about Developer Distribution, or start exploring the Developer Distribution portal by clicking the **Distribute** button in the top right of this page.​
 
 ## Frequently Asked Questions
 
@@ -46,7 +46,7 @@ Developer Distribution is a unified portal where you will soon be able to submit
 
 ### What is Developer Distribution?
 
-Developer Distribution is a unified portal where you will be able to submit your CEP and UXP plugin listings, and manage them. Read [this announcement blog post](https://blog.developer.adobe.com/introducing-a-new-developer-distribution-portal-for-listing-uxp-plugins-in-the-creative-cloud-7f81376f46a9) to learn more. Also, check out the [frequently asked questions](../customer_configurations.md) about Developer Distribution.
+Developer Distribution is a unified portal where you will be able to submit your CEP and UXP plugin listings, and manage them. Read [this announcement blog post](https://blog.developer.adobe.com/introducing-a-new-developer-distribution-portal-for-listing-uxp-plugins-in-the-creative-cloud-7f81376f46a9) to learn more. Also, check out the [frequently asked questions](../custom_configurations.md) about Developer Distribution.
 
 ### Why can't I see my CEP Listings?
 
