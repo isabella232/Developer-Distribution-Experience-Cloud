@@ -1,25 +1,25 @@
 ---
 keywords:
-  - Creative Cloud
+  - Experience Cloud
   - Marketplace
   - Exchange
   - Distribution
   - Extensibility
-  - SDK
-  - Developer Tooling
-  - UXP
-  - Photoshop
-  - XD
-  - Plugin
-  - JavaScript
+  - TPP
+  - Technology Partner Portal
+  - app builder apps
+  - software integrations
+  - analytics
+  - experience manager
+  - campaign
   - Developer Console
-  - Creative Cloud Desktop
-  - FastSpring
+  - Adobe Commerce
+  - Workfront
 title: Getting Started
 description: This is the getting started page
 ---
 
-# App Builder ISV
+# App Builder apps
 
 This getting started guide introduces key areas of the [Adobe Developer Distribution portal](/distribute/home) to help you begin distributing your apps quickly and easily. The Adobe Developer Distribution portal enables you to quickly publish a **listing** for your app on two Creative Cloud Marketplaces; the Creative Cloud desktop app Marketplace and Adobe Exchange in these three easy steps:
 
