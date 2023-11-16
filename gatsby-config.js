@@ -39,34 +39,20 @@ module.exports = {
           },          
           {          
             path: "guides/zxp/distribution.md",
-            title: "What's new with ZXP",
-            pages: [              
-              {
-                path: "guides/zxp/resources",
-                title: "Resources",
-              },              
-            ],
-          },         
-          {
-            path: "guides/plugin_id.md",
-            title: "Get a Plugin ID",
+            title: "What's new",
           },
           {
-            title: "Submission and Review",
+            title: "Submission",
             path: "guides/submission/overview.md",
             pages: [
               {
-                path: "guides/submission/what_review.md",
-                title: "What We Review",
-              },
-              {
-                path: "guides/submission/timelines_outcomes.md",
-                title: "Timelines and Outcomes",
-              },
-              {
-                path: "guides/submission/rejection_reasons.md",
-                title: "Top Rejection Reasons",
-              },
+                path: "guides/submission/app_builder_submission.md",
+                title: "App Builder apps",
+              }
+              // {
+              //   path: "guides/submission/service_to_service.md",
+              //   title: "Software Integrations",
+              // },             
             ],
           },
           {
@@ -74,16 +60,12 @@ module.exports = {
             title: "Adobe Branding Guidelines",
           },
           {
-            path: "guides/best_practices.md",
-            title: "Benefits and Best Practices",
+            path: "guides/discoverandmanage.md",
+            title: "Discover and Manage",
           },
           {
-            title: "FAQ",
-            path: "guides/faq.md",
-          },
-          {
-            title: "Glossary",
-            path: "guides/glossary.md",
+            title: "Custom Configurations",
+            path: "guides/custom_configurations.md",
           },
         ],
       },
