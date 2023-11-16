@@ -47,7 +47,7 @@ module.exports = {
             pages: [
               {
                 path: "guides/submission/app_builder_submission.md",
-                title: "App Builder ISV",
+                title: "App Builder apps",
               }
               // {
               //   path: "guides/submission/service_to_service.md",
