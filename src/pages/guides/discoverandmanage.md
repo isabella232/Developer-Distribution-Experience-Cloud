@@ -100,6 +100,7 @@ On successful deployment of an environment, the status of that environment will 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_environment-details.png)
 
  ### Revoking an application
+ 
 System administrator will see the option to ‘Revoke’ a deployed application on the Application details tab.
 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_14.jpg)
@@ -109,6 +110,7 @@ System administrator will see the option to ‘Revoke’ a deployed application 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_15.jpg)
 
 ### Getting support for an application
+
 An acquired application’s ‘Application details’ page will show the option to ‘Get support’. The option will show for an application that has been approved, rejected or revoked by the system administrator.
  
 ![Screenshot of Exchange](../images/Acquire_and_Manage_getting-support.png)

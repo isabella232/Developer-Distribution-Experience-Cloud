@@ -38,7 +38,7 @@ Some types of listings have prerequisites that developers need to fulfil before 
 Once the listing type has been chosen, another modal will ask the developer to choose the project they want to be associated with the listing. The developer can either choose an existing project, or create the listing in a new project.
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_3.png)
- 
+
 Upon successful creation of the listing, the developer will be routed to the "Listing Overview" page. This page provides a high-level overview of the listing, such as its status, listing type, last modified date, and next steps.
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_4.png)
@@ -59,11 +59,11 @@ The listing details for the app are ready to be added now.
 ## Listing Details
 
 Submit the App Builder new listing metadata in multiple tabs: General, Media, Categories, and Payment. All mandatory fields are marked with an asterisk.  
- 
+
 Listing details and a new version must be submitted together for the first listing. After publishing, the developer can submit an update to the listing details or a new version independently from each other.
 
 New Submission - Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), create the listing for the Marketplace. Executing the command "Distribute" will take you the Developer Console to create a listing for the app.
- 
+
 The General tab has the application’s public name, a short description (subtitle), a long description, URL for documentation, support information (email and URL), URL for Privacy policy, and URL for Terms of Service. Be sure to save a draft if you navigate away from the page.
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_5.png)

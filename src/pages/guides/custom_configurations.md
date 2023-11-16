@@ -7,6 +7,7 @@ Developers of distributable App Builder apps can define configuration options fo
 Custom configuration can be defined via the `configSchema` property.
 
 **app.config.yaml**
+
 ```yaml
 application:
   <application config>
@@ -23,6 +24,7 @@ configSchema: # This is a top-level property and is global to the app and all ex
 ```
 
 ## Usage
+
 The `envKey` property of a custom configuration option maps to the environment variable name in the app.
 
 ### Runtime action
@@ -31,6 +33,7 @@ To use custom configuration in a Runtime action, map the `envKey` value for the 
 
 #### Example
 **app.config.yaml**
+
 ```yaml
 configSchema:
   title: 'the title'
@@ -59,7 +62,9 @@ application:
               final: true
               code-download: true
 ```
+
 **Action code**
+
 ```js
 async function main (params) {
     if (params.IS_CACHING_ENABLED) {
@@ -77,6 +82,7 @@ To use custom configuration in the web application, values can be accessed direc
 #### Example
 
 **app.config.yaml**
+
 ```yaml
 configSchema:
   title: 'Configurable Web App'
@@ -93,7 +99,9 @@ configSchema:
 application:
   web: web-src
 ```
+
 **Component.js**
+
 ```js
 <View backgroundColor={process.env.FRONTEND_BACKGROUND_COLOR}></View>
 ```

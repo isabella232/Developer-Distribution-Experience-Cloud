@@ -23,7 +23,7 @@ description: This is the FAQ page
 
 # What's New: Experience Cloud Support in Developer Distribution
 
-App Manager will be migrated to Developer Distribution starting December 5, 2023. 
+App Manager will be migrated to Developer Distribution starting December 5, 2023.
 
 App Builder apps can now be submitted in [Developer Distribution](/distribute). Developer Distribution is a unified portal to submit and manage listings for Experience Cloud and Creative Cloud extensibility, to be discovered publicly on the Adobe Exchange marketplace. The Frequently Asked Questions below will explain the two new types of Experience Cloud listings that can now be submitted in Developer Distribution.
 
@@ -47,7 +47,6 @@ App Builder apps can now be submitted in [Developer Distribution](/distribute). 
 - [If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?](#if-i-previously-created-a-private-app-builder-app-via-the-app-builder-trial-sign-up-can-i-distribute-it-publicly)
 - [Where can I get more information or help?](#where-can-I-get-more-information-or-help)
 
-
 ## Software Integration Answers
 
 ### What is a software integration?
@@ -68,18 +67,17 @@ Yes, the App Manager link in the Technology Partner Portal will be replaced with
 
 Contact [TPP Support](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new).
 
-
 ## AppBuilder Answers
 
 ### What is an App Builder App?
 
-Adobe Developer App Builder provides a unified third-party extensibility framework for integrating and creating custom experiences to extend Adobe products. Enterprise customers can browse listings and then acquire and install App Builder apps from [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec). 
+Adobe Developer App Builder provides a unified third-party extensibility framework for integrating and creating custom experiences to extend Adobe products. Enterprise customers can browse listings and then acquire and install App Builder apps from [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
 
 ### What are the steps to create an App Builder app for public distribution?
 
 1. Join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). Note you will have to join the TPP as a Silver level or above for your published listing to be displayed publicly. At the free level, only an unlisted detail page URL is available to share with potential customers. Upon registration approval, a "sandbox" enterprise org will be assigned to your Adobe login credentials.​
 
-2. After your registration has been approved, submit a request for an App Builder Sandbox using the [TPP sandbox request ticket](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new?ticket_form_id=20885197390989).   ​
+2. After your registration has been approved, submit a request for an App Builder Sandbox using the [TPP sandbox request ticket](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new?ticket_form_id=20885197390989).
 
 3. Once you receive confirmation of your App Builder sandbox, go to [Developer Console](https://developer.adobe.com/developer-console/), add  App Builder to a project, and create your App Builder app.​
 
@@ -92,9 +90,4 @@ Yes, when you join the TPP program, you will be able to create an App Builder li
 
 ### Where can I get more information or help?
 
-Contact [TPP Support](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new).  
-
-
-
-
-
+Contact [TPP Support](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new).
