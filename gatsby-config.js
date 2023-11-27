@@ -16,16 +16,12 @@ module.exports = {
   siteMetadata: {
     pages: [
       {
-        path: "/developer-distribution/creative-cloud/",
+        path: "/developer-distribution/",
         title: "Developer Distribution",
       },
       {
         path: "guides/index.md",
         title: "Documentation",
-      },
-      {
-        title: "Support",
-        path: "support/index.md",
       },
     ],
     subPages: [
