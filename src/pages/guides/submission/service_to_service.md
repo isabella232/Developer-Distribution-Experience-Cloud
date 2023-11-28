@@ -30,7 +30,7 @@ This getting started guide introduces key areas of the [Adobe Developer Distribu
 A new listing can be created from the home page or the “Your listings” page. Clicking on ‘Create a new listing’ lands the developer on the modal overlay where they must choose the type of listing they want to create.
 
 ![Screenshot of Exchange](../../images/DX-Submission_1.png)
- 
+
 In order to create a software integration listing for Adobe’s Digital Experience products, the developer must have a sandbox Enterprise org associated with their Adobe login. All Technology Partner Program members get a sandbox enterprise org assigned upon approved registration. Attempting to create a software integration listing without joining Technology Partner Program will result in the access denied screens as below:
 
 ![Screenshot of Exchange](../../images/DX-Submission_2.png)
@@ -58,20 +58,20 @@ The listing details for the app are ready to be added now.
 ## Listing Details
 
 The developer can submit the new listing metadata in multiple tabs: General, Icons, Media, Products, Tags, and Services. All mandatory fields are marked with an asterisk.
- 
-The General tab has the application’s public name, a short description (subtitle), a long description, and support information (email, URL, phone number and information). Be sure to save a draft if you navigate away from the page. 
+
+The General tab has the application’s public name, a short description (subtitle), a long description, and support information (email, URL, phone number and information). Be sure to save a draft if you navigate away from the page.
 
 ![Screenshot of Exchange](../../images/DX-Submission_6.png)
- 
-The Icons tab requires three different icon sizes for each integration. Featured image is also required for the published apps that are chosen to be featured on the Exchange marketplace.  
+
+The Icons tab requires three different icon sizes for each integration. Featured image is also required for the published apps that are chosen to be featured on the Exchange marketplace.
 
 ![Screenshot of Exchange](../../images/DX-Submission_7.png)
 
-The Media tab has screenshots, videos, documents, and developer references. Up to ten screenshots and up to ten video links can be added and a caption can be added for each screenshot and each video. Up to ten documents and up to ten developer reference materials can be added as a pdf or URL.  
+The Media tab has screenshots, videos, documents, and developer references. Up to ten screenshots and up to ten video links can be added and a caption can be added for each screenshot and each video. Up to ten documents and up to ten developer reference materials can be added as a pdf or URL.
 
 ![Screenshot of Exchange](../../images/DX-Submission_8.png)
- 
-The Products tab has the list of Adobe products that the software integration might support. The developer can choose one or more products as ‘Required’ or ‘Optional’. Required products are the ones that the software integration needs to function properly. Optional products are the ones that the integration supports but doesn't necessarily require. 
+
+The Products tab has the list of Adobe products that the software integration might support. The developer can choose one or more products as ‘Required’ or ‘Optional’. Required products are the ones that the software integration needs to function properly. Optional products are the ones that the integration supports but doesn't necessarily require.
 
 ![Screenshot of Exchange](../../images/DX-Submission_9.png)
  
@@ -79,34 +79,34 @@ The Tags tab has standard tags, categories (such as Country and Industry), and c
 
 ![Screenshot of Exchange](../../images/DX-Submission_10.png)
  
-The Services tab is for entering information such as end-user license agreement, installation instructions, version, release notes, and supported languages. The developer can choose an existing template for installation instructions or add a custom one in the URL or PDF format. Version and Release notes are optional fields, since there is no package that the developer needs to upload for the listing. Supported languages are the languages that the application’s in-app UI supports. 
+The Services tab is for entering information such as end-user license agreement, installation instructions, version, release notes, and supported languages. The developer can choose an existing template for installation instructions or add a custom one in the URL or PDF format. Version and Release notes are optional fields, since there is no package that the developer needs to upload for the listing. Supported languages are the languages that the application’s in-app UI supports.
 
-![Screenshot of Exchange](../../images/DX-Submission_11.png) 
+![Screenshot of Exchange](../../images/DX-Submission_11.png)
   
-When all the mandatory metadata details have been added, clicking the Preview and submit button will open the submission modal. The modal also gives the developer the option to preview the listing or view their public profile.  
+When all the mandatory metadata details have been added, clicking the Preview and submit button will open the submission modal. The modal also gives the developer the option to preview the listing or view their public profile.
 
-The developer must provide a note to Adobe reviewers and mark the checkbox for Adobe brand guidelines for the Submit listing button to be enabled.  
+The developer must provide a note to Adobe reviewers and mark the checkbox for Adobe brand guidelines for the Submit listing button to be enabled. 
 
-Delay publishing allows the developer to choose whether they want to publish the initial listing immediately on approval by Adobe, or on a later date.  
+Delay publishing allows the developer to choose whether they want to publish the initial listing immediately on approval by Adobe, or on a later date.
 
 ![Screenshot of Exchange](../../images/DX-Submission_12.png)
   
-Upon successful submission of the listing, the developer is taken to the “Listing Overview” page, where a success message confirms the submission. The status of the Listing changes from draft to “In review." 
- 
-![Screenshot of Exchange](../../images/DX-Submission_13.png)  
+Upon successful submission of the listing, the developer is taken to the “Listing Overview” page, where a success message confirms the submission. The status of the Listing changes from draft to “In review."
 
-## Reviewing a Submission 
+![Screenshot of Exchange](../../images/DX-Submission_13.png)
 
-When an application has been submitted for review, an Adobe administrator will review the application details. If all the information is complete and the requirements are met, the reviewer will approve the submission. The status of the submission will show a green ‘Approved’ or ‘Published’, depending on what the developer chose as the publishing time preference.  
+## Reviewing a Submission
 
-The developer is notified by email when the listing is submitted, and when it has been approved and published on the marketplace. 
+When an application has been submitted for review, an Adobe administrator will review the application details. If all the information is complete and the requirements are met, the reviewer will approve the submission. The status of the submission will show a green ‘Approved’ or ‘Published’, depending on what the developer chose as the publishing time preference.
+
+The developer is notified by email when the listing is submitted, and when it has been approved and published on the marketplace.
 
 ![Screenshot of Exchange](../../images/DX-Submission_14.png)
 
-Listing details can be edited on an approved, published, or retracted listing. Metadata edits are highlighted by a yellow outline. The status has an edit suffix.  
+Listing details can be edited on an approved, published, or retracted listing. Metadata edits are highlighted by a yellow outline. The status has an edit suffix.
 
 ![Screenshot of Exchange](../../images/DX-Submission_15.png)
 
-Edits can be submitted for review and will take effect immediately upon approval. Note the edit suffix on the submission modal and the fact that “Delayed publishing” is disabled for metadata changes to a published listing. 
+Edits can be submitted for review and will take effect immediately upon approval. Note the edit suffix on the submission modal and the fact that “Delayed publishing” is disabled for metadata changes to a published listing.
 
 ![Screenshot of Exchange](../../images/DX-Submission_12.png)
