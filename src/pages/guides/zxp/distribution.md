@@ -42,10 +42,10 @@ App Builder apps can now be submitted in [Developer Distribution](/distribute). 
 
 <br/>
 
-- [What is an App Builder app?](#what-is-an-App-Builder-app)
-- [What are the steps to create an App Builder app for public distribution?](#what-are-the-steps-to-create-an-App-Builder-app-for-public-distribution)
+- [What is an App Builder app?](#what-is-an-app-builder-app)
+- [What are the steps to create an App Builder app for public distribution?](#what-are-the-steps-to-create-an-app-builder-app-for-public-distribution)
 - [If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?](#if-i-previously-created-a-private-app-builder-app-via-the-app-builder-trial-sign-up-can-i-distribute-it-publicly)
-- [Where can I get more information or help?](#where-can-I-get-more-information-or-help)
+- [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
 
 ## Software Integration Answers
 
