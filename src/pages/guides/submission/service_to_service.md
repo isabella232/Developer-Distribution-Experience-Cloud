@@ -74,18 +74,18 @@ The Media tab has screenshots, videos, documents, and developer references. Up t
 The Products tab has the list of Adobe products that the software integration might support. The developer can choose one or more products as ‘Required’ or ‘Optional’. Required products are the ones that the software integration needs to function properly. Optional products are the ones that the integration supports but doesn't necessarily require.
 
 ![Screenshot of Exchange](../../images/DX-Submission_9.png)
- 
+
 The Tags tab has standard tags, categories (such as Country and Industry), and custom tags that developers can add. These categories and tags help marketplace customers discover and filter/sort software integration app listings published on the marketplace.
 
 ![Screenshot of Exchange](../../images/DX-Submission_10.png)
- 
+
 The Services tab is for entering information such as end-user license agreement, installation instructions, version, release notes, and supported languages. The developer can choose an existing template for installation instructions or add a custom one in the URL or PDF format. Version and Release notes are optional fields, since there is no package that the developer needs to upload for the listing. Supported languages are the languages that the application’s in-app UI supports.
 
 ![Screenshot of Exchange](../../images/DX-Submission_11.png)
   
 When all the mandatory metadata details have been added, clicking the Preview and submit button will open the submission modal. The modal also gives the developer the option to preview the listing or view their public profile.
 
-The developer must provide a note to Adobe reviewers and mark the checkbox for Adobe brand guidelines for the Submit listing button to be enabled. 
+The developer must provide a note to Adobe reviewers and mark the checkbox for Adobe brand guidelines for the Submit listing button to be enabled.
 
 Delay publishing allows the developer to choose whether they want to publish the initial listing immediately on approval by Adobe, or on a later date.
 
