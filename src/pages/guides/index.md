@@ -2,7 +2,6 @@
 keywords:
   - Experience Cloud
   - software integration
-  - Marketplace
   - Exchange
   - Distribution
   - Application
