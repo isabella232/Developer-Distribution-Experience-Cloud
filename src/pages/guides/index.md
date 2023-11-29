@@ -2,7 +2,6 @@
 keywords:
   - Experience Cloud
   - software integration
-  - Marketplace
   - Exchange
   - Distribution
   - Application
@@ -24,14 +23,14 @@ keywords:
   - AEM
   - Commerce
 title: Experience Cloud Documentation for Adobe Developer Distribution
-description: A self-service submission portal for developers to publish listings that extend Adobe products, on the Adobe marketplaces.​
+description: A self-service submission portal for developers to publish listings that extend Adobe products on the Adobe marketplaces.​
 ---
 
 <Hero slots="heading, text" background="rgb(141, 52, 78)"/>
 
 # Adobe Developer Distribution
 
-A self-service submission portal for developers to publish listings that extend Adobe products, on the Adobe marketplaces.​
+A self-service submission portal for developers to publish listings that extend Adobe products on the Adobe marketplaces.​
 
 ## Overview
 
