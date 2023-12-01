@@ -23,6 +23,6 @@ description: This is the page for branding guidelines
 
 These guidelines have been created to give you an overview of the program, specifics about using your program badge, as well as other Adobe assets available to you. All of these elements are meant to be used within your own unique branded look and feel—one that distinguishes them from the Adobe look and feel.
 
-We expect you to thoroughly read the [Adobe Branding Guidelines](https://www.adobe.com/go/tpp_brand_guide) with due diligence and follow the guidelines exactly. Failure to do so will result in rejection during the review process.
+We expect you to thoroughly read the [Adobe Branding Guidelines](https://partners.adobe.com/content/dam/solution/en/tpp_ec_assets/restricted/c/c_2/Adobe_Exchange_Partner_Program_Brand_Guidelines.pdf) with due diligence and follow the guidelines exactly. Failure to do so will result in rejection during the review process.
 
 Please note that you will need to login in to your Technology Partner Program partner page with a registered account, in order to access the brand guidelines.
