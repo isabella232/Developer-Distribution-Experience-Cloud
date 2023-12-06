@@ -36,7 +36,7 @@ A self-service submission portal for developers to publish listings that extend 
 
 [Adobe Developer Distribution](/distribute/home) is a new surface for developers to submit and manage their listings. The Developer Distribution surface offers a powerful and flexible approach to allow developers to create listings more rapidly and receive approval with minimal Adobe reviewer turnaround time. This document focuses on listing submission for Experience Cloud App Builder applications and software integrations although Creative Cloud plugin listings can also be created and managed in Developer Distribution.
 
-## App Builder applicatons versus software integrations.
+## App Builder applications versus software integrations
 
 App Builder provides a unified third-party extensibility framework for integrating and creating custom experiences to extend Adobe solutions. App Builder appliations can be submitted in Developer Distribution to be discovered, acquired, and deployed by enterprise users from Adobe Exchange. App builder listings consist of metadata and a version of the extension that can be acquired by customers. See the submission tab for App Builder application specific workflows.
 
