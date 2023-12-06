@@ -21,7 +21,7 @@ description: This is the getting started page
 
 # Getting Started
 
-This getting started guide introduces key areas of the [Adobe Developer Distribution portal](/distribute/home) to help developers begin distributing apps quickly and easily. The Adobe Developer Distribution portal enables quick publishing  of a **listing** for the app on two Experience Cloud Marketplaces (Experience Cloud desktop app Marketplace and Adobe Exchange) in these three easy steps:
+This getting started guide introduces key areas of the [Adobe Developer Distribution portal](/distribute/home) to help developers begin distributing apps quickly and easily. Adobe Developer Distribution enables self publishing of Software integration or App Builder **listings** to be published on 
 
 1. Add the public profile.
 2. Create a **listing** to represent the app with metadata, the packaged app, and a **version**.
