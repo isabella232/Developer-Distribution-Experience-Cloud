@@ -24,7 +24,7 @@ Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technolo
 
 <br/>
 
-## Software integration Questions
+## Software integrations
 
 <br/>
 
@@ -33,7 +33,7 @@ Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technolo
 - [What are the steps to create a software integration listing for public distribution?](#what-are-the-steps-to-create-a-software-integration-listing-for-public-distribution)
 - [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
 
-## App Builder app Questions
+## App Builder apps
 
 <br/>
 
