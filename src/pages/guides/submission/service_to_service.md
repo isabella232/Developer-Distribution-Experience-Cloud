@@ -21,7 +21,7 @@ description: This is the service to service page
 
 # Software Integration
 
-The following screenshots explain the creation and submission of a Software integration listing for Adobe review. 
+The following screenshots explain the creation and submission of a Software integration listing for Adobe review.
 
 ![sample image alt text](../../images/Your_Listings_card_view.png)
 
