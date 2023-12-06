@@ -1,20 +1,20 @@
 ---
 keywords:
-  - Creative Cloud
+  - Experience Cloud
   - Marketplace
   - Exchange
   - Distribution
   - Extensibility
-  - SDK
-  - Developer Tooling
-  - UXP
-  - Photoshop
-  - XD
-  - Plugin
-  - JavaScript
-  - Developer Console
-  - Creative Cloud Desktop
-  - FastSpring
+  - App
+  - Listing
+  - Version
+  - Console
+  - Project
+  - Product
+  - Platform
+  - Edits
+  - Metadata
+  - Submission
 title: Glossary
 description: This is the glossary of terms page
 ---
@@ -23,27 +23,27 @@ description: This is the glossary of terms page
 
 ## App
 
-A 3rd-party distributable item. It could be a UXP/ZXP plugin, a DX Application, an Adobe Sign Integration etc. and may or may not be associated with an API. To unlock future features, all Apps will have a project assigned to them.
+A 3rd-party distributable item such as a Software integration or App Builder app. All apps have a Console project assigned to them.
 
 ## Listing
 
-How an _App_ is published on the Marketplace. A _Listing_ contains metadata and at least one plugin _Version_.
+How an _App_ is published on the Marketplace. A _Listing_ contains metadata to provide a rich description on Adobe Exchange listing cards and detail pages.
 
 ## Version
 
-The downloadable portion of an _App_. A UXP listing can have multiple _Versions_ available to users simultaneously, while ZXP listings only offer the latest _Version_.
+The user installable portion an _App_. An App Builder _Listing_ can be associatd with one or more _Versions_.
 
 ## Console Project
 
-Every _Listing_ is associated with a _Console Project_, which serves as a container created in the Adobe Developer Console to enable a future feature of bundling of plugins, APIs and other Console services.
+Every App Builder or Software integration _Listing_ is associated with a _Console Project_ for building the app in Developer Console.
 
 ## Product
 
-A Creative Cloud host app associated with a particular _Listing_. UXP plugins can only be associated with one _Product_ (currently Photoshop or XD).
+An Experience Cloud host app that is extended in a Software Integration or App Builder App.
 
 ## Platform
 
-Developer Distribution will support plugin listing submission for Photoshop and XD on the UXP desktop extensibility platform starting in February 2023. Listing submission for all Creative Cloud Products using the ZXP/CEP extensibility platform will be available in June 2023. Submission for more Creative Cloud Products on UXP will continue to be introduced in the 2nd half of 2023.
+The two Experience Cloud Platforms supported in Developer Distribution are _App Builder_ and _Software integrations_. For Creative Cloud the platforms are ZXP and UXP.
 
 ## Listing Status
 
