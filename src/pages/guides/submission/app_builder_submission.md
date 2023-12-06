@@ -21,7 +21,7 @@ description: This is the getting started page
 
 # App Builder app
 
-The following screenshots explain the creation and submission of an App Builder listing and version for Adobe review. 
+The following screenshots explain the creation and submission of an App Builder listing and version for Adobe review.
 
 ![sample image alt text](../../images/Your_Listings_card_view.png)
 
