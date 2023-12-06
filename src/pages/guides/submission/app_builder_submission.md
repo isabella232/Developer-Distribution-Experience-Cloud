@@ -21,7 +21,7 @@ description: This is the getting started page
 
 # App Builder apps
 
-This getting started guide introduces key areas of the [Adobe Developer Distribution portal](/distribute/home) to help you begin distributing your apps quickly and easily. The Adobe Developer Distribution portal enables you to quickly publish a **listing** for your app on two Creative Cloud Marketplaces; the Creative Cloud desktop app Marketplace and Adobe Exchange in these three easy steps:
+The following screenshots explain the creation and submission of an App Builder listing and version for Adobe review. 
 
 ![sample image alt text](../../images/Your_Listings_card_view.png)
 
