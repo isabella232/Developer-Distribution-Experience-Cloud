@@ -20,7 +20,7 @@ description: This is the FAQ page
 
 App Manager has been merged into Developer Distribution.
 
-Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can submit Software integrations and App Builder apps in [Developer Distribution](/distribute). Developer Distribution is a unified portal to self-submit & manage Experience Cloud Software integration and App Builder listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec) 
+Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can submit Software integrations and App Builder apps in [Developer Distribution](/distribute). Developer Distribution is a unified portal to self-submit & manage Experience Cloud Software integration and App Builder listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec)
 
 <br/>
 
