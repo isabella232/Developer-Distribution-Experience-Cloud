@@ -21,15 +21,11 @@ description: This is the getting started page
 
 # Getting Started
 
-This getting started guide introduces key areas of the [Adobe Developer Distribution portal](/distribute/home) to help developers begin distributing apps quickly and easily. Adobe Developer Distribution enables self publishing of Software integration or App Builder **listings** to be published on 
-
-1. Add the public profile.
-2. Create a **listing** to represent the app with metadata, the packaged app, and a **version**.
-3. Submit a **listing** for approval to be published immediately or at a specific future date.
+This getting started guide highlights the pages to view and manage existing listings in the Adobe Developer Distribution Portal. Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can manage Software integration and App Builder **listings** in [Developer Distribution](/distribute) to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec)
 
 <InlineAlert slots="text" variant="help"/>
 
-A **listing** is what users see on a Marketplace. It contains metadata to describe each app and how to use it, along with a specific **version** of the app to be installed by the Experience Cloud desktop app. For more details on these concepts and how they are used in the distribution of apps, see the [Glossary](./glossary.md).
+A **listing** is what customers can browse on Adobe Exchange. It is comprised of metadata to describe each app and how to use it. Metadata appears on Adobe Exchange listing cards and detail pages. For more definitions of terms used in the submission process see the [Glossary](./glossary.md).
 
 ## Overview
 
@@ -67,21 +63,21 @@ The developer can click on a listing's name or View button on the home page of �
 
 ![Screenshot of the home page without any created plugins](../images/Overview_5.png)
 
-The developer can navigate to the “Listing details” page to add listing level metadata details that help users discover their listing in the marketplace once it’s published.
+The developer can navigate to the “Listing details” page to add or edit listing metadata details that help users discover their listing in the marketplace once it’s published.
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_6.png)
 
-Some of the listing types require a package to be uploaded and validated before the developer can submit the listing for Adobe review. In such cases, the developer will see the option to ‘Add new version’ in the left navigation bar. Clicking on ‘Add new version’ creates a new version and takes the developer to the version details page for the new draft version. The developer can also patch an existing listing by adding a second or subsequent version. In such cases, the version-level metadata from the earlier version is copied over to the new draft version, and the developer can update it as they see fit.
+**Versions** only apply to App Builder listings because a package (or version) must be uploaded and validated before the developer can submit the listing for Adobe review. App Builder developers will see the option to ‘Add new version’ in the left navigation bar. Clicking on ‘Add new version’ creates a new version and opens the version details page to upload a package and add version level metadata. The developer can also "patch" an existing listing by adding a second or subsequent version. In such cases, the version-level metadata from the earlier version is copied over to the new draft version, and the developer can update it as they see fit.
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_7.png)
 
-Once the listing is approved, the developer can also edit the listing-level metadata fields (such as its description and support information). The edits to an Approved, Published or Rejected listing also need to go through Adobe review, in order to be approved and merged with the original listing.
+Once a listing is submitted for review and approved, published or Rejected, the developer can subsequently edit listing-level metadata fields from the Listing details page. The edits to an Approved, Published or Rejected listing must be submitted for Adobe review before the changes will go into effect.
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_8.png)
 
 ## Insights
 
-Insights are available for the listing types that can be acquired from the Adobe Exchange marketplace such as App Builder apps. For such listings, the developer can view the number of plugins acquired by month and year, as well as multiple version status summary for listings that have versions.
+Insights are available for App Builder listings which can be acquired from the Adobe Exchange marketplace. For such listings, the developer can view the number of plugins acquired by month and year, as well as multiple version status summary. Insights will appear for published listings.
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_9.png)
 
