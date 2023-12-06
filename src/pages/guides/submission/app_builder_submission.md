@@ -19,7 +19,7 @@ title: Getting Started
 description: This is the getting started page
 ---
 
-# App Builder apps
+# App Builder app
 
 The following screenshots explain the creation and submission of an App Builder listing and version for Adobe review. 
 
