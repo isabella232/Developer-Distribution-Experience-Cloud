@@ -46,7 +46,7 @@ Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technolo
 
 ### What is a software integration?
 
-Software integration is the name for the Experience Cloud third-party listings that extend one or more Adobe Experience Cloud products.  The existing 390+ public software integration listings on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec) were submitted using App Manager. These are typically multi-tenant service-to-service integrations that require enterprise customers to contact the developer to be acquired and installed.
+Software integration is the name for the Experience Cloud third-party listings that extend one or more Adobe Experience Cloud products. The existing 390+ public software integration listings on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec) were submitted using App Manager. These are typically multi-tenant service-to-service integrations that require enterprise customers to contact the developer to be acquired and installed.
 
 ### Can I use Developer Distribution to create and manage software integrations?
 
